@@ -1,0 +1,10 @@
+{
+  "useURL": false,
+  "allowModifications": false,
+  "url": "",
+  "servers": {
+    "LITW Refined": "pilzwelt.g-portal.game",
+    "LITW Refined - Testumgebung": "mctest.pilzinsel64.de"
+  },
+  "DO_NOT_EDIT_prevDefaultServers": []
+}

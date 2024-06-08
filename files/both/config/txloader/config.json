@@ -1,0 +1,886 @@
+[
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_planks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/planks_big_oak.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_planks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/planks_birch.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_planks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/planks_jungle.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_planks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/planks_oak.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_planks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/planks.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_planks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/planks_spruce.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/gravel.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/gravel.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/sand.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/sand.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/sandstone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/sandstone_normal.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/sandstone_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/sandstone_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/sandstone_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/sandstone_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/chiseled_sandstone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/sandstone_carved.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/cut_sandstone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/sandstone_smooth.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/clay.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/clay.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_bricks.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_bricks.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/soul_sand.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/soul_sand.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/netherrack.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/netherrack.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_wart_stage0.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_wart_stage_0.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_wart_stage1.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_wart_stage_1.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_wart_stage2.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_wart_stage_2.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/quartz_block_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/quartz_block_side.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_side.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/quartz_block_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/quartz_pillar.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_lines.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/quartz_pillar_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_lines_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/chiseled_quartz_block.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_chiseled.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/chiseled_quartz_block_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_block_chiseled_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_quartz_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/quartz_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_gold_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_gold_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/crimson_nylium.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/crimson_nylium.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/crimson_nylium_side.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/crimson_nylium_side.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/warped_nylium.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/warped_nylium.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/warped_nylium_side.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/warped_nylium_side.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/copper_ore.png",
+        "resourceLocationOverride": "tinker/textures/blocks/ore_copper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/copper_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/copper_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/copper_ore.png",
+        "resourceLocationOverride": "thermalfoundation/textures/blocks/ore/Ore_Copper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/copper_ore.png",
+        "resourceLocationOverride": "immersiveengineering/textures/blocks/ore_Copper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/copper_ore.png",
+        "resourceLocationOverride": "forestry/textures/blocks/ores/copper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/copper_block.png",
+        "resourceLocationOverride": "tinker/textures/blocks/copper_block.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/copper_ingot.png",
+        "resourceLocationOverride": "forestry/textures/items/ingotCopper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/copper_ingot.png",
+        "resourceLocationOverride": "immersiveengineering/textures/items/metal_ingotCopper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/copper_ingot.png",
+        "resourceLocationOverride": "thermalfoundation/textures/items/material/IngotCopper.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/copper_ingot.png",
+        "resourceLocationOverride": "tinker/textures/items/materials/material_copperingot.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/coal_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/coal_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/iron_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/iron_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/gold_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/gold_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/diamond_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/diamond_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/emerald_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/emerald_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/lapis_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/lapis_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/redstone_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/redstone_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_iron_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_iron_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_gold_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_gold_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_copper_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_copper_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_coal_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_coal_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_diamond_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_diamond_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_emerald_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_emerald_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_redstone_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_redstone_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/deepslate_lapis_ore.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/deepslate_lapis_ore.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/stone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/stone.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/cobblestone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/cobblestone.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/mossy_cobblestone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/cobblestone_mossy.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/vine.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/vine.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_leaves.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/leaves_oak.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/acacia_leaves.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/leaves_acacia.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_leaves.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/leaves_big_oak.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_leaves.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/leaves_birch.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_leaves.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/leaves_jungle.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_leaves.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/leaves_spruce.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/grass_block_snow.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/grass_side_snowed.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/snow.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/snow.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/mycelium_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/mycelium_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/mycelium_side.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/mycelium_side.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/packed_ice.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/ice_packed.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/ice.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/ice.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/end_stone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/end_stone.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/glowstone.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/glowstone.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/bedrock.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/bedrock.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/bookshelf.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/bookshelf.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/apple.png",
+        "resourceLocationOverride": "minecraft/textures/items/apple.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/lever.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/lever.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_log.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_oak.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_log_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_oak_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_log.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_spruce.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_log_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_spurce_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_log.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_jungle.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_log_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_jungle_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_log.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_birch.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_log_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_birch_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/acacia_log.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_acacia.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/acacia_log_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_acacia_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_log.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_big_oak.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_log_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/log_big_oak_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/obsidian.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/obsidian.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/note_block.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/noteblock.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/hay_block_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/hay_block_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/hay_block_side.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/hay_block_side.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/potatoes_stage0.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/potatoes_stage_0.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/potatoes_stage1.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/potatoes_stage_1.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/potatoes_stage2.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/potatoes_stage_2.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/potatoes_stage3.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/potatoes_stage_3.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/carrots_stage0.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/carrots_stage_0.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/carrots_stage1.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/carrots_stage_1.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/carrots_stage2.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/carrots_stage_2.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/carrots_stage3.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/carrots_stage_3.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_wart_stage0.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_wart_stage_0.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_wart_stage1.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_wart_stage_1.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/nether_wart_stage2.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/nether_wart_stage_2.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/cocoa_stage0.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/cocoa_stage_0.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/cocoa_stage1.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/cocoa_stage_1.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/cocoa_stage2.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/cocoa_stage_2.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage0.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_0.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage2.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_2.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage3.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_3.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage4.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_4.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage5.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_5.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage6.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_6.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/wheat_stage7.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/wheat_stage_7.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/acacia_door_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/acacia_door_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/acacia_door_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/acacia_door_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/acacia_trapdoor.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/acacia_trapdoor.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_door_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/birch_door_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_door_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/birch_door_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/birch_trapdoor.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/birch_trapdoor.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_door_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/dark_oak_door_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_door_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/dark_oak_door_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/dark_oak_trapdoor.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/dark_oak_trapdoor.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_door_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/jungle_door_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_door_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/jungle_door_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/jungle_trapdoor.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/jungle_trapdoor.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_door_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/spruce_door_bottom.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_door_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/spruce_door_top.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/spruce_trapdoor.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/spruce_trapdoor.png",
+        "source": "CLIENT",
+        "version": "1.20.6",
+        "forceLoad": true
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_door_bottom.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/door_wood_lower.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_door_top.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/door_wood_upper.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/block/oak_trapdoor.png",
+        "resourceLocationOverride": "minecraft/textures/blocks/trapdoor.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/wheat.png",
+        "resourceLocationOverride": "minecraft/textures/items/wheat.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/wheat_seeds.png",
+        "resourceLocationOverride": "minecraft/textures/items/seeds_wheat.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/carrot.png",
+        "resourceLocationOverride": "minecraft/textures/items/carrot.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/textures/item/carrot_on_a_stick.png",
+        "resourceLocationOverride": "minecraft/textures/items/carrot_on_a_stick.png",
+        "source": "CLIENT",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/sounds/block/wooden_door/open1.ogg",
+        "resourceLocationOverride": "minecraft/sounds/random/door_open.ogg",
+        "source": "ASSET",
+        "version": "1.20.6"
+    },
+    {
+        "resourceLocation": "minecraft/sounds/block/wooden_door/close2.ogg",
+        "resourceLocationOverride": "minecraft/sounds/random/door_close.ogg",
+        "source": "ASSET",
+        "version": "1.20.6"
+    }
+]

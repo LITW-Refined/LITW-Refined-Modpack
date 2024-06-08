@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Gravel",
+        "enabled": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "gravel",
+        "intensity": 15,
+        "minVeinSize": 10,
+        "maxVeinSize": 13,
+        "minY": 32,
+        "maxY": 64,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    }
+]
