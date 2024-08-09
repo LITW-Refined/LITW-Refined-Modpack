@@ -1,0 +1,6 @@
+#Fri Mar 08 11:41:29 CET 2024
+SSDO=true
+uwatertint=false
+minlight=0.001
+waterA=2.0
+Underwater_Fog=false

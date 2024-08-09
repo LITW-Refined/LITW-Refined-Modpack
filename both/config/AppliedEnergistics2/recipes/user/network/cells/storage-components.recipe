@@ -1,0 +1,47 @@
+shaped=
+    oredictionary:dustRedstone certusCrystal oredictionary:dustRedstone,
+    certusCrystal ae2:ItemMaterial.LogicProcessor certusCrystal,
+    oredictionary:dustRedstone certusCrystal oredictionary:dustRedstone
+    -> ae2:ItemMaterial.Cell1kPart
+
+shaped=
+    oredictionary:dustRedstone ae2:ItemMaterial.CalcProcessor oredictionary:dustRedstone,
+    oredictionary:nuggetGold ae2:BlockQuartzGlass oredictionary:nuggetTin,
+    oredictionary:dustRedstone ae2:ItemMaterial.Cell1kPart oredictionary:dustRedstone
+    -> ae2:ItemMaterial.Cell4kPart
+
+shaped=
+    oredictionary:dustGlowstone ae2:ItemMaterial.EngProcessor oredictionary:dustGlowstone,
+    oredictionary:nuggetGold ae2:BlockQuartzGlass oredictionary:nuggetTin,
+    oredictionary:dustGlowstone ae2:ItemMaterial.Cell4kPart oredictionary:dustGlowstone
+    -> ae2:ItemMaterial.Cell16kPart
+
+shaped=
+    oredictionary:dustGlowstone ae2:ItemMaterial.EngProcessor oredictionary:dustGlowstone,
+    oredictionary:ingotGold ae2:BlockQuartzGlass oredictionary:ingotTin,
+    oredictionary:dustGlowstone ae2:ItemMaterial.Cell16kPart oredictionary:dustGlowstone
+    -> ae2:ItemMaterial.Cell64kPart
+
+shaped=
+    oredictionary:dustGlowstone ae2:ItemMaterial.EngProcessor oredictionary:dustGlowstone,
+    oredictionary:ingotGold ae2:ItemMaterial.LogicProcessor oredictionary:ingotTin,
+    oredictionary:dustGlowstone ae2:ItemMaterial.Cell64kPart oredictionary:dustGlowstone
+    -> ae2:ItemMaterial.Cell256kPart
+
+shaped=
+    oredictionary:dustGlowstone ae2:ItemMaterial.EngProcessor oredictionary:dustGlowstone,
+    oredictionary:ingotGold ae2:ItemMaterial.LogicProcessor oredictionary:ingotTin,
+    oredictionary:dustGlowstone ae2:ItemMaterial.Cell256kPart oredictionary:dustGlowstone
+    -> ae2:ItemMaterial.Cell1024kPart
+
+shaped=
+    oredictionary:dustGlowstone ae2:ItemMaterial.EngProcessor oredictionary:dustGlowstone,
+    oredictionary:ingotGold ae2:ItemMaterial.LogicProcessor oredictionary:ingotTin,
+    oredictionary:dustGlowstone ae2:ItemMaterial.Cell1024kPart oredictionary:dustGlowstone
+    -> ae2:ItemMaterial.Cell4096kPart
+
+shaped=
+    oredictionary:dustGlowstone ae2:ItemMaterial.EngProcessor oredictionary:dustGlowstone,
+    oredictionary:blockGold ae2:ItemMaterial.LogicProcessor oredictionary:blockTin,
+    oredictionary:dustGlowstone ae2:ItemMaterial.Cell4096kPart oredictionary:dustGlowstone
+    -> ae2:ItemMaterial.Cell16384kPart

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Coal (Surface)",
+        "enabled": true,
+        "isAdditional": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "coal_ore",
+        "intensity": 20,
+        "minY": 30,
+        "maxY": 55,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    },
+    {
+        "name": "Iron (Surface)",
+        "enabled": true,
+        "isAdditional": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "iron_ore",
+        "intensity": 15,
+        "minY": 25,
+        "maxY": 40,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    },
+    {
+        "name": "Gold (Surface)",
+        "enabled": true,
+        "isAdditional": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "gold_ore",
+        "intensity": 10,
+        "minY": 6,
+        "maxY": 26,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    },
+    {
+        "name": "Redstone (Surface)",
+        "enabled": true,
+        "isAdditional": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "redstone_ore",
+        "intensity": 15,
+        "minY": 6,
+        "maxY": 31,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    },
+    {
+        "name": "Lapis (Surface)",
+        "enabled": true,
+        "isAdditional": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "lapis_ore",
+        "intensity": 5,
+        "minY": 20,
+        "maxY": 25,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    },
+    {
+        "name": "Diamond (Surface)",
+        "enabled": true,
+        "isAdditional": true,
+        "oreModName": "minecraft",
+        "oreBlockName": "diamond_ore",
+        "intensity": 4,
+        "minY": 6,
+        "maxY": 21,
+        "dimensionIdsBlacklist": [0, 2, 3, 4],
+        "dimensionIdsBlacklistAsWhitelist": true
+    }
+]
