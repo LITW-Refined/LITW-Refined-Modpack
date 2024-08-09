@@ -4,7 +4,7 @@ This is the name of my private modpack. It is based on [After Humans by Gronkh &
 
 ## Links
 
-<table align="left">
+<table align="center">
     <tr>
       <td><i>Quick-links</i></td>
     </tr>
