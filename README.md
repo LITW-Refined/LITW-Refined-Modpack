@@ -32,5 +32,3 @@ On [GitHub](https://github.com/LITW-Refined) you will find any Minecraft 1.7.10 
 Note that some of that mods are just forked and updated for reference and archive and from my side there is no active development.
 
 Feel free to use it in your private or public modpack or contribute back any bugfixes or features you have on your side. Every contribution is welcome. 🙂
-
-List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
