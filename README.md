@@ -23,11 +23,11 @@ This is the name of my private modpack. It is based on [After Humans by Gronkh &
 
 ## Modpack repository
 
-This is the modpack repository holding all the configs, the builder and this readme. It's also the root for all modpack related tickets.
+The [modpack repository on GitLab](https://git.pilzinsel64.de/litw-refined/modpack) holds all the configs, the builder and this readme. It's also the root for all modpack related tickets.
 
 ## Mods & mod repositories
 
-On [GitHub](https://github.com/LITW-Refined) you will find any Minecraft 1.7.10 mod made by me. You also find many open source mods I use that's development has been discontinued by the original mod author. I updated them for compatiblity, bugfixes and my own features. However, there are also a few forks I just have to contribute back to the original repositor.
+On the [LITW Refined GitHub](https://github.com/LITW-Refined) you will find any Minecraft 1.7.10 mod made by me. You also find many open source mods I use that's development has been discontinued by the original mod author. I updated them for compatiblity, bugfixes and my own features. However, there are also a few forks I just have to contribute back to the original repositor.
 
 Note that some of that mods are just forked and updated for reference and archive and from my side there is no active development.
 
