@@ -1,0 +1,675 @@
+{
+ "Version": "1.6.21.1",
+ "Actions": [
+  {
+   "IsZip": true,
+   "ZipPath": "modpack-files-main/both",
+   "DestPath": "",
+   "DownloadUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip"
+  },
+  {
+   "IsZip": true,
+   "ZipPath": "modpack-files-main/client",
+   "Side": "Client",
+   "DestPath": "",
+   "DownloadUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip"
+  },
+  {
+   "IsZip": true,
+   "ZipPath": "modpack-files-main/server",
+   "Side": "Server",
+   "DestPath": "",
+   "DownloadUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip"
+  },
+  {
+   "DestPath": "mods/+unimixins-all.jar",
+   "DownloadUrl": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.17/+unimixins-all-1.7.10-0.1.17.jar"
+  },
+  {
+   "DestPath": "mods/adventurebackpack.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.2.0-GTNH/adventurebackpack-1.2.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/ae2fc.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.0-gtnh/ae2fc-1.3.0-gtnh.jar"
+  },
+  {
+   "DestPath": "mods/ae2stuff.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.7.0-GTNH/ae2stuff-0.7.0-GTNH.jar"
+  },
+  {
+   "Side": "Server",
+   "DestPath": "mods/alternativechunkloading.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/AlternativeChunkloading/releases/download/1.1.1/alternativechunkloading-1.1.1.jar"
+  },
+  {
+   "DestPath": "mods/AncientTrees.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2261/983/AncientTrees-1.7.10-1.6.4.jar"
+  },
+  {
+   "DestPath": "mods/anotheroregenerator.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/AnotherOreGenerator/releases/download/0.1.1/anotheroregenerator-0.1.1.jar"
+  },
+  {
+   "DestPath": "mods/antiqueatlas-1.7.10-4.4.0.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2420/506/antiqueatlas-1.7.10-4.4.0.jar"
+  },
+  {
+   "DestPath": "mods/AppleCore.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/AppleCore/releases/download/3.3.0/AppleCore-3.3.0.jar"
+  },
+  {
+   "DestPath": "mods/appliedenergistics2.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-400-GTNH/appliedenergistics2-rv3-beta-400-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/archaicfix.jar",
+   "DownloadUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.1/archaicfix-0.7.1.jar"
+  },
+  {
+   "DestPath": "mods/ArchitectureCraft.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.9.3/ArchitectureCraft-1.9.3.jar"
+  },
+  {
+   "DestPath": "mods/AutoSapling-1.1.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2211/794/AutoSapling-1.1.jar"
+  },
+  {
+   "DestPath": "mods/backpack.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.3.1-GTNH/backpack-2.3.1-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/BaublesExpanded.jar",
+   "DownloadUrl": "https://github.com/jss2a98aj/Baubles-Expanded/releases/download/2.1.4/BaublesExpanded-2.1.4.jar"
+  },
+  {
+   "DestPath": "mods/bdlib.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/bdlib/releases/download/1.10.0-GTNH/bdlib-1.10.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/BetterFoliage.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2500/869/BetterFoliage-MC1.7.10-2.0.17.jar"
+  },
+  {
+   "DestPath": "mods/betterp2p.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.2.1/betterp2p-1.2.1.jar"
+  },
+  {
+   "DestPath": "mods/BiblioCraft.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2423/369/BiblioCraft%5Bv1.11.7%5D%5BMC1.7.10%5D.jar"
+  },
+  {
+   "DestPath": "mods/BiblioWoods[BiomesOPlenty].jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2229/577/BiblioWoods%5BBiomesOPlenty%5D%5Bv1.9%5D.jar"
+  },
+  {
+   "DestPath": "mods/BiblioWoods[ExtraBiomesXL][v1.4].jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2229/579/BiblioWoods%5BExtraBiomesXL%5D%5Bv1.4%5D.jar"
+  },
+  {
+   "DestPath": "mods/BiblioWoods[Forestry].jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2229/574/BiblioWoods%5BForestry%5D%5Bv1.7%5D.jar"
+  },
+  {
+   "DestPath": "mods/BiblioWoods[Natura].jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2229/581/BiblioWoods%5BNatura%5D%5Bv1.5%5D.jar"
+  },
+  {
+   "DestPath": "mods/BigReactors-0.4.3A.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2282/591/BigReactors-0.4.3A.jar"
+  },
+  {
+   "DestPath": "mods/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2499/612/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar"
+  },
+  {
+   "DestPath": "mods/Bookshelf.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2278/984/Bookshelf-1.7.10-1.0.4.187.jar"
+  },
+  {
+   "DestPath": "mods/Botania.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Botania/releases/download/1.10.13-GTNH/Botania-1.10.13-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/BrandonsCore.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.1.0-GTNH/BrandonsCore-1.1.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/bugtorch.jar",
+   "DownloadUrl": "https://github.com/jss2a98aj/BugTorch/releases/download/1.2.11/bugtorch-1.2.11.jar"
+  },
+  {
+   "DestPath": "mods/buildcraft-compat.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/BuildCraftCompat/releases/download/7.1.17/buildcraft-compat-7.1.17.jar"
+  },
+  {
+   "DestPath": "mods/buildcraft.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.39/buildcraft-7.1.39.jar"
+  },
+  {
+   "DestPath": "mods/campfirebackport.jar",
+   "DownloadUrl": "https://github.com/connor135246/Campfire-Backport/releases/download/v1.11/campfirebackport-1.7.10-1.11.jar"
+  },
+  {
+   "DestPath": "mods/CarpentersBlocks.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.5.5-GTNH/CarpentersBlocks-3.5.5-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/cfm-3.4.8-mc1.7.10.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=cfm-3.4.8-mc1.7.10.jar"
+  },
+  {
+   "DestPath": "mods/ChestTransporter.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2342/400/ChestTransporter-1.7.10-2.0.6.jar"
+  },
+  {
+   "DestPath": "mods/ChickenChunks.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/ChickenChunks/releases/download/1.3.4.23-pre/ChickenChunks-1.3.4.23-pre.jar"
+  },
+  {
+   "DestPath": "mods/chisel.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Chisel/releases/download/2.15.0-GTNH/chisel-2.15.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/CodeChickenCore.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.2.1/CodeChickenCore-1.2.1.jar"
+  },
+  {
+   "DestPath": "mods/1.7.10/CodeChickenLib-1.2.1.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/CodeChickenLib/releases/download/1.2.1/CodeChickenLib-1.2.1.jar"
+  },
+  {
+   "DestPath": "mods/CoFHCore-[1.7.10]3.1.4-329.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2388/750/CoFHCore-%5B1.7.10%5D3.1.4-329.jar"
+  },
+  {
+   "DestPath": "mods/CoreTweaks.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CoreTweaks.jar"
+  },
+  {
+   "DestPath": "mods/CosmeticArmorReworked.jar",
+   "DownloadUrl": "https://github.com/zlainsama/CosmeticArmorReworked/releases/download/1.7.10-v7/CosmeticArmorReworked-1.7.10-v7.jar"
+  },
+  {
+   "DestPath": "mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2838/720/CraftTweaker-1.7.10-3.1.0-legacy.jar"
+  },
+  {
+   "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CustomNPC-Plus-nomixin.jar"
+  },
+  {
+   "DestPath": "mods/customnpcsadvanced.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/CustomNPC-Plus-Extras/releases/download/1.0.1/customnpcsadvanced-1.0.1.jar"
+  },
+  {
+   "DestPath": "mods/Decocraft.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2414/535/Decocraft-2.4.2_1.7.10.jar"
+  },
+  {
+   "IsExtra": true,
+   "Side": "Client",
+   "DestPath": "mods/defaultserverlist.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.5.0/defaultserverlist-1.5.0.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/defaultworldgenerator.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/DefaultWorldGenerator/releases/download/0.3.0/defaultworldgenerator-0.3.0.jar"
+  },
+  {
+   "DestPath": "mods/Draconic-Evolution.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.3.5-GTNH/Draconic-Evolution-1.3.5-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/DrZharks.MoCreatures.Mod.jar",
+   "DownloadUrl": "https://github.com/quentin452/Mo-Creatures-Continuation/releases/download/6.4.2/DrZharks.MoCreatures.Mod.v6.4.2.jar"
+  },
+  {
+   "DestPath": "mods/EasyCrafting-1.7.10-2.0.1.16.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2214/328/EasyCrafting-1.7.10-2.0.1.16.jar"
+  },
+  {
+   "DestPath": "mods/EnchantingPlus-1.7.10-3.0.2-d.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2218/324/EnchantingPlus-1.7.10-3.0.2-d.jar"
+  },
+  {
+   "DestPath": "mods/endercore.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar"
+  },
+  {
+   "DestPath": "mods/EnderIO.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.0/EnderIO-2.8.0.jar"
+  },
+  {
+   "DestPath": "mods/EnderStorage.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar"
+  },
+  {
+   "DestPath": "mods/Et_Futurum_Requiem.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=Et_Futurum_Requiem.jar"
+  },
+  {
+   "DestPath": "mods/ExtrabiomesXL.jar",
+   "DownloadUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar"
+  },
+  {
+   "DestPath": "mods/ExtraButtons-1.7.10.1.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2206/926/ExtraButtons-1.7.10.1.jar"
+  },
+  {
+   "DestPath": "mods/extrautilities.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar"
+  },
+  {
+   "DestPath": "mods/fastcraft-1.25.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2522/249/fastcraft-1.25.jar"
+  },
+  {
+   "DestPath": "mods/floatingitems.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/FloatingItems/releases/download/1.0/floatingitems-1.0.jar"
+  },
+  {
+   "DestPath": "mods/FloodLights.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.3.0/FloodLights-1.3.0.jar"
+  },
+  {
+   "DestPath": "mods/Forestry.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/forgeessentials-client.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-client.jar"
+  },
+  {
+   "Side": "Server",
+   "DestPath": "mods/forgeessentials.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-server.jar"
+  },
+  {
+   "DestPath": "mods/ForgeMultipart.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/FullscreenWindowed.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2317/743/FullscreenWindowed-1.7.10-1.3.0b.jar"
+  },
+  {
+   "DestPath": "mods/GardenStuff-1.7.10-1.7.0.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2269/692/GardenStuff-1.7.10-1.7.0.jar"
+  },
+  {
+   "DestPath": "mods/grapplemod.jar",
+   "DownloadUrl": "https://github.com/unilock/grapplemod/releases/download/1.7.10-v10%2Bfix36.1/grapplemod-1.7.10-v10+fix36.1.jar"
+  },
+  {
+   "DestPath": "mods/gtnhlib.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.2.11/gtnhlib-0.2.11.jar"
+  },
+  {
+   "DestPath": "mods/GUILib.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/GuiLib/releases/download/1.1/guilib-1.1.jar"
+  },
+  {
+   "DestPath": "mods/harvestcraft.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=harvestcraft.jar"
+  },
+  {
+   "DestPath": "mods/hodgepodge.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.20/hodgepodge-2.5.20.jar"
+  },
+  {
+   "DestPath": "mods/holoinventory.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/hopperductmod-1.7.10-1.3.2.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2211/247/hopperductmod-1.7.10-1.3.2.jar"
+  },
+  {
+   "DestPath": "mods/HungerOverhaul.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2332/505/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar"
+  },
+  {
+   "DestPath": "mods/iChunUtil.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2338/148/iChunUtil-4.2.3.jar"
+  },
+  {
+   "DestPath": "mods/immersivecavegen.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/4723/376/immersivecavegen-1.2g-hotfix5.jar"
+  },
+  {
+   "DestPath": "mods/ImmersiveEngineering-0.7.7.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2299/19/ImmersiveEngineering-0.7.7.jar"
+  },
+  {
+   "DestPath": "mods/inventorytweaks.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.2/inventorytweaks-1.6.2.jar"
+  },
+  {
+   "DestPath": "mods/IronChest.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.85/IronChest-6.0.85.jar"
+  },
+  {
+   "DestPath": "mods/IvToolkit.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2294/442/IvToolkit-1.2.1.jar"
+  },
+  {
+   "DestPath": "mods/JABBA.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Jabba/releases/download/1.3.5/JABBA-1.3.5.jar"
+  },
+  {
+   "DestPath": "mods/journeymap.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/4500/658/journeymap-1.7.10-5.1.4p6-unlimited.jar"
+  },
+  {
+   "DestPath": "mods/JustEnoughCalculation.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/JustEnoughCalculation/releases/download/1.7.10-4.0/JustEnoughCalculation-1.7.10-4.0.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/KeyboardWizard-Legacy.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/4030/428/KeyboardWizard-Legacy-Forge-1.7.10-1.0.0.jar"
+  },
+  {
+   "DestPath": "mods/kleeslabs.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2284/547/kleeslabs-mc1.7.10-1.2.9.jar"
+  },
+  {
+   "DestPath": "mods/KoreSample-1.7.10-1.3.2.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2244/613/KoreSample-1.7.10-1.3.2.jar"
+  },
+  {
+   "DestPath": "mods/LunatriusCore.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.0-GTNH/LunatriusCore-1.2.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/Mantle.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Mantle/releases/download/0.4.1/Mantle-0.4.1.jar"
+  },
+  {
+   "DestPath": "mods/mcjtylib.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2272/449/mcjtylib-1.8.1.jar"
+  },
+  {
+   "DestPath": "mods/MineFactoryReloaded.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2366/149/MineFactoryReloaded-%5B1.7.10%5D2.8.2B1-201.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/ModernControlling.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=ModernControlling.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/ModernKeyBinding.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/4034/362/ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar"
+  },
+  {
+   "DestPath": "mods/ModTweaker2.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ModTweaker/releases/download/0.11.0/ModTweaker2-0.11.0.jar"
+  },
+  {
+   "DestPath": "mods/MouseTweaks.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.17-GTNH/MouseTweaks-2.4.17-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/msc2.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/MobSpawnControls2/releases/download/1.3.1/msc2-1.3.1.jar"
+  },
+  {
+   "DestPath": "mods/mystcraft-1.7.10-0.12.3.04.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2417/42/mystcraft-1.7.10-0.12.3.04.jar"
+  },
+  {
+   "DestPath": "mods/mystcraftextras.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/MystcraftExtras/releases/download/1.0.0/mystcraftextras-1.0.0.jar"
+  },
+  {
+   "DestPath": "mods/nashorn.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=nashorn.jar"
+  },
+  {
+   "DestPath": "mods/Natura.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Natura/releases/download/2.6.4/Natura-2.6.4.jar"
+  },
+  {
+   "DestPath": "mods/naturescompass.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/NaturesCompass/releases/download/1.4.0-GTNH/naturescompass-1.4.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/NEIAddons.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.15.0/NEIAddons-1.15.0.jar"
+  },
+  {
+   "DestPath": "mods/netherportalfix.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.2.0/netherportalfix-1.2.0.jar"
+  },
+  {
+   "DestPath": "mods/NoMoreRecipeConflict.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/3479/729/NoMoreRecipeConflict-1.7.10-0.3.2.jar"
+  },
+  {
+   "DestPath": "mods/NotEnoughEnergistics.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.6.0/NotEnoughEnergistics-1.6.0.jar"
+  },
+  {
+   "DestPath": "mods/notenoughIDs.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.0.3/notenoughIDs-2.0.3.jar"
+  },
+  {
+   "DestPath": "mods/NotEnoughItems.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.0-GTNH/NotEnoughItems-2.6.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/NovaCraft.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/5553/197/NovaCraft%20V1.3.5%20%281.7.10%29.jar"
+  },
+  {
+   "DestPath": "mods/OpenBlocks.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.9.1-GTNH/OpenBlocks-1.9.1-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/OpenModsLibs.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar"
+  },
+  {
+   "DestPath": "mods/Opis.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.2-mapless/Opis-1.4.2-mapless.jar"
+  },
+  {
+   "DestPath": "mods/OptiFine_1.7.10_HD_U_E7.jar",
+   "DownloadUrl": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=41a40eb89a62470cfc27504d2d9555e9"
+  },
+  {
+   "DestPath": "mods/optimizationsandtweaks.jar",
+   "DownloadUrl": "https://github.com/quentin452/OptimizationsAndTweaks/releases/download/V1.13.9/optimizationsandtweaks-V1.13.9.jar"
+  },
+  {
+   "DestPath": "mods/OreDictionaryConverter-1.6.1.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2226/312/OreDictionaryConverter-1.6.1.jar"
+  },
+  {
+   "DestPath": "mods/p455w0rdslib.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2359/471/p455w0rdslib-1.7.10-1.0.4.jar"
+  },
+  {
+   "DestPath": "mods/Pam's Harvest the Nether 1.7.10a.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2241/397/Pam%27s%20Harvest%20the%20Nether%201.7.10a.jar"
+  },
+  {
+   "DestPath": "mods/pilzmcsammelsorium.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/PilzMcSammelsorium/releases/download/1.3.3/pilzmcsammelsorium-1.3.3.jar"
+  },
+  {
+   "DestPath": "mods/plantmegapack.jar",
+   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=plantmegapack.jar"
+  },
+  {
+   "DestPath": "mods/plantmegapackfix.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/plantmegapackfix/releases/download/1.0.0/plantmegapackfix-1.0.0.jar"
+  },
+  {
+   "DestPath": "mods/RecurrentComplex.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2339/621/RecurrentComplex-0.9.7.1.1.jar"
+  },
+  {
+   "DestPath": "mods/RedstonePasteMod-1.7.10-1.6.2.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2211/249/RedstonePasteMod-1.7.10-1.6.2.jar"
+  },
+  {
+   "DestPath": "mods/rfwindmill.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/rfwindmill/releases/download/v1.0/rfwindmill-v1.0.jar"
+  },
+  {
+   "DestPath": "mods/roguelike.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.0-GTNH/roguelike-1.6.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/Satchels.jar",
+   "DownloadUrl": "https://github.com/makamys/Satchels/releases/download/v1.0.7/Satchels-1.7.10-1.0.7.jar"
+  },
+  {
+   "DestPath": "mods/Schematica.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Schematica/releases/download/1.11.1-GTNH/Schematica-1.11.1-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/serializationisbad.jar",
+   "DownloadUrl": "https://github.com/dogboy21/serializationisbad/releases/download/1.5/serializationisbad-1.5.jar"
+  },
+  {
+   "DestPath": "mods/signpost.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/Signpost/releases/download/v1.9.2/signpost-v1.9.2.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/SimpleWorldTimer.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2859/158/SimpleWorldTimer-1.7.10-1.1.2.jar"
+  },
+  {
+   "DestPath": "mods/sit.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/Sit/releases/download/2.1/sit-2.1.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/skinport.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/SkinPort/releases/download/v11.0.0/skinport-v11.0.0.jar"
+  },
+  {
+   "DestPath": "mods/Snad.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2279/363/Snad-1.7.10-1.6.01.31a.jar"
+  },
+  {
+   "DestPath": "mods/solarflux.jar",
+   "DownloadUrl": "https://github.com/LITW-Refined/SolarFlux/releases/download/v1.0.1/solarflux-v1.0.1.jar"
+  },
+  {
+   "DestPath": "mods/StorageDrawers.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.13.5-GTNH/StorageDrawers-1.13.5-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/StorageDrawersBop.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.12.0-GTNH/StorageDrawersBop-1.12.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/StorageDrawersForestry.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.12.0-GTNH/StorageDrawersForestry-1.12.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/StorageDrawersNatura.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/StorageDrawers-Natura/releases/download/1.12.0-GTNH/StorageDrawersNatura-1.12.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/TConstruct.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.1-GTNH/TConstruct-1.12.1-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/Thaumcraft.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar"
+  },
+  {
+   "DestPath": "mods/thaumcraftneiplugin.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar"
+  },
+  {
+   "DestPath": "mods/ThaumcraftResearchTweaks.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.1.0/ThaumcraftResearchTweaks-1.1.0.jar"
+  },
+  {
+   "DestPath": "mods/thaumicenergistics.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.6.10-GTNH/thaumicenergistics-1.6.10-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/ThaumicTinkerer.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.9.4/ThaumicTinkerer-2.9.4.jar"
+  },
+  {
+   "DestPath": "mods/ThermalExpansion-[1.7.10]4.1.5-248.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2388/758/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar"
+  },
+  {
+   "DestPath": "mods/ThermalFoundation-[1.7.10]1.2.6-118.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2388/752/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar"
+  },
+  {
+   "DestPath": "mods/TiCTooltips.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.1/TiCTooltips-1.3.1.jar"
+  },
+  {
+   "DestPath": "mods/TMechworks.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.3.1/TMechworks-0.3.1.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/txloader.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/TX-Loader/releases/download/1.7.0/txloader-1.7.0.jar"
+  },
+  {
+   "DestPath": "mods/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2304/497/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar"
+  },
+  {
+   "DestPath": "mods/VeganOption.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2456/940/VeganOption-mc1.7.10-0.2.2.jar"
+  },
+  {
+   "DestPath": "mods/VillageNames.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/5299/898/VillageNames-1.7.10-4.4.10a.jar"
+  },
+  {
+   "DestPath": "mods/Waila.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/waila/releases/download/1.8.0/Waila-1.8.0.jar"
+  },
+  {
+   "DestPath": "mods/WailaHarvestability.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.2.1-GTNH/WailaHarvestability-1.2.1-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/WAILAPlugins.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar"
+  },
+  {
+   "DestPath": "mods/wildmobsmod.jar",
+   "DownloadUrl": "https://github.com/quentin452/wildmobs/releases/download/1.5.4/WildMobs-1.7.10-1.5.4.jar"
+  },
+  {
+   "DestPath": "mods/WirelessCraftingTerminal.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.2/WirelessCraftingTerminal-1.11.2.jar"
+  },
+  {
+   "DestPath": "mods/witchery.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar"
+  },
+  {
+   "DestPath": "mods/WitcheryExtras.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.2.2/WitcheryExtras-1.2.2.jar"
+  },
+  {
+   "Side": "Client",
+   "DestPath": "mods/zume.jar",
+   "DownloadUrl": "https://github.com/Nolij/Zume/releases/download/release%2F0.19.1/zume-0.19.1-sources.jar"
+  }
+ ]
+}
