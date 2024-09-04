@@ -1,6 +1,70 @@
 {
  "Updates": [
   {
+   "Version": "1.7.0.0",
+   "Actions": [
+    {
+     "Type": "Delete",
+     "DestPath": "mods/cfm-3.4.8-mc1.7.10.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/MrCrayfishFurnitureMod.jar",
+     "DownloadUrl": "https://mediafilez.forgecdn.net/files/2221/679/MrCrayfishFurnitureModv3.4.7%281.7.10%29.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/archaicfix.jar",
+     "DownloadUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.4/archaicfix-0.7.4.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/campfirebackport.jar",
+     "DownloadUrl": "https://github.com/connor135246/Campfire-Backport/releases/download/v1.11.1/campfirebackport-1.7.10-1.11.1.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/Et_Futurum_Requiem.jar",
+     "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=Et_Futurum_Requiem.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/CraftArcanum.jar",
+     "DownloadUrl": "https://mediafilez.forgecdn.net/files/2323/225/CraftArcanum-1.1.1.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/legacyfixes.jar",
+     "DownloadUrl": "https://github.com/unilock/LegacyFixes/releases/download/1.8.1/legacyfixes-1.8.1.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/immersiveintegration.jar",
+     "DownloadUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/notfine.jar",
+     "DownloadUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/backhand.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/Backhand/releases/download/1.5.12/backhand-1.5.12.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/ae2fc.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.35-gtnh/ae2fc-1.3.35-gtnh.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/ae2stuff.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.2-GTNH/ae2stuff-0.8.2-GTNH.jar"
+    }
+   ]
+  },
+  {
    "Version": "1.6.22.0",
    "Actions": [
     {

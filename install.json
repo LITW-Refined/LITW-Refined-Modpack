@@ -1,5 +1,5 @@
 {
- "Version": "1.6.21.1",
+ "Version": "1.7.0.0",
  "Actions": [
   {
    "IsZip": true,
@@ -31,11 +31,11 @@
   },
   {
    "DestPath": "mods/ae2fc.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.0-gtnh/ae2fc-1.3.0-gtnh.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.35-gtnh/ae2fc-1.3.35-gtnh.jar"
   },
   {
    "DestPath": "mods/ae2stuff.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.7.0-GTNH/ae2stuff-0.7.0-GTNH.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.2-GTNH/ae2stuff-0.8.2-GTNH.jar"
   },
   {
    "Side": "Server",
@@ -64,7 +64,7 @@
   },
   {
    "DestPath": "mods/archaicfix.jar",
-   "DownloadUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.1/archaicfix-0.7.1.jar"
+   "DownloadUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.4/archaicfix-0.7.4.jar"
   },
   {
    "DestPath": "mods/ArchitectureCraft.jar",
@@ -77,6 +77,10 @@
   {
    "DestPath": "mods/backpack.jar",
    "DownloadUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.3.1-GTNH/backpack-2.3.1-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/backhand.jar",
+   "DownloadUrl": "https://github.com/GTNewHorizons/Backhand/releases/download/1.5.12/backhand-1.5.12.jar"
   },
   {
    "DestPath": "mods/BaublesExpanded.jar",
@@ -148,15 +152,15 @@
   },
   {
    "DestPath": "mods/campfirebackport.jar",
-   "DownloadUrl": "https://github.com/connor135246/Campfire-Backport/releases/download/v1.11/campfirebackport-1.7.10-1.11.jar"
+   "DownloadUrl": "https://github.com/connor135246/Campfire-Backport/releases/download/v1.11.1/campfirebackport-1.7.10-1.11.1.jar"
   },
   {
    "DestPath": "mods/CarpentersBlocks.jar",
    "DownloadUrl": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.5.5-GTNH/CarpentersBlocks-3.5.5-GTNH.jar"
   },
   {
-   "DestPath": "mods/cfm-3.4.8-mc1.7.10.jar",
-   "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=cfm-3.4.8-mc1.7.10.jar"
+   "DestPath": "mods/MrCrayfishFurnitureMod.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2221/679/MrCrayfishFurnitureModv3.4.7%281.7.10%29.jar"
   },
   {
    "DestPath": "mods/ChestTransporter.jar",
@@ -193,6 +197,10 @@
   {
    "DestPath": "mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
    "DownloadUrl": "https://mediafilez.forgecdn.net/files/2838/720/CraftTweaker-1.7.10-3.1.0-legacy.jar"
+  },
+  {
+   "DestPath": "mods/CraftArcanum.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2323/225/CraftArcanum-1.1.1.jar"
   },
   {
    "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
@@ -345,6 +353,10 @@
    "DownloadUrl": "https://mediafilez.forgecdn.net/files/2299/19/ImmersiveEngineering-0.7.7.jar"
   },
   {
+   "DestPath": "mods/immersiveintegration.jar",
+   "DownloadUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar"
+  },
+  {
    "DestPath": "mods/inventorytweaks.jar",
    "DownloadUrl": "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.2/inventorytweaks-1.6.2.jar"
   },
@@ -380,6 +392,10 @@
   {
    "DestPath": "mods/KoreSample-1.7.10-1.3.2.jar",
    "DownloadUrl": "https://mediafilez.forgecdn.net/files/2244/613/KoreSample-1.7.10-1.3.2.jar"
+  },
+  {
+   "DestPath": "mods/legacyfixes.jar",
+   "DownloadUrl": "https://github.com/unilock/LegacyFixes/releases/download/1.8.1/legacyfixes-1.8.1.jar"
   },
   {
    "DestPath": "mods/LunatriusCore.jar",
@@ -462,6 +478,10 @@
   {
    "DestPath": "mods/NotEnoughItems.jar",
    "DownloadUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.0-GTNH/NotEnoughItems-2.6.0-GTNH.jar"
+  },
+  {
+   "DestPath": "mods/notfine.jar",
+   "DownloadUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar"
   },
   {
    "DestPath": "mods/NovaCraft.jar",
