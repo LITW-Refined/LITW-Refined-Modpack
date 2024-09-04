@@ -1,4 +1,4 @@
-﻿namespace ModpackBuilder;
+﻿namespace LITW.Constructs.Builder;
 
 internal class Program
 {
