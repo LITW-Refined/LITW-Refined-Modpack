@@ -76,7 +76,7 @@
   },
   {
    "DestPath": "mods/backpack.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.3.1-GTNH/backpack-2.3.1-GTNH.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.4.3-GTNH/backpack-2.4.3-GTNH.jar"
   },
   {
    "DestPath": "mods/backhand.jar",
@@ -96,7 +96,7 @@
   },
   {
    "DestPath": "mods/betterp2p.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.2.1/betterp2p-1.2.1.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.0/betterp2p-1.3.0.jar"
   },
   {
    "DestPath": "mods/BiblioCraft.jar",
@@ -132,15 +132,15 @@
   },
   {
    "DestPath": "mods/Botania.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/Botania/releases/download/1.10.13-GTNH/Botania-1.10.13-GTNH.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/Botania/releases/download/1.11.5-GTNH/Botania-1.11.5-GTNH.jar"
   },
   {
    "DestPath": "mods/BrandonsCore.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.1.0-GTNH/BrandonsCore-1.1.0-GTNH.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar"
   },
   {
    "DestPath": "mods/bugtorch.jar",
-   "DownloadUrl": "https://github.com/jss2a98aj/BugTorch/releases/download/1.2.11/bugtorch-1.2.11.jar"
+   "DownloadUrl": "https://github.com/jss2a98aj/BugTorch/releases/download/1.2.13/bugtorch-1.2.13.jar"
   },
   {
    "DestPath": "mods/buildcraft-compat.jar",

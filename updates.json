@@ -76,6 +76,31 @@
      "Type": "Update",
      "DestPath": "mods/appliedenergistics2.jar",
      "DownloadUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-450-GTNH/appliedenergistics2-rv3-beta-450-GTNH.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/bugtorch.jar",
+     "DownloadUrl": "https://github.com/jss2a98aj/BugTorch/releases/download/1.2.13/bugtorch-1.2.13.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/BrandonsCore.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/Botania.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/Botania/releases/download/1.11.5-GTNH/Botania-1.11.5-GTNH.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/betterp2p.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.0/betterp2p-1.3.0.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/backpack.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.4.3-GTNH/backpack-2.4.3-GTNH.jar"
     }
    ]
   },
