@@ -48,7 +48,7 @@
   },
   {
    "DestPath": "mods/anotheroregenerator.jar",
-   "DownloadUrl": "https://github.com/LITW-Refined/AnotherOreGenerator/releases/download/0.1.1/anotheroregenerator-0.1.1.jar"
+   "DownloadUrl": "https://github.com/LITW-Refined/AnotherOreGenerator/releases/download/0.2.1/anotheroregenerator-0.2.1.jar"
   },
   {
    "DestPath": "mods/antiqueatlas-1.7.10-4.4.0.jar",
@@ -60,7 +60,7 @@
   },
   {
    "DestPath": "mods/appliedenergistics2.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-400-GTNH/appliedenergistics2-rv3-beta-400-GTNH.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-450-GTNH/appliedenergistics2-rv3-beta-450-GTNH.jar"
   },
   {
    "DestPath": "mods/archaicfix.jar",
@@ -676,7 +676,7 @@
   },
   {
    "DestPath": "mods/WirelessCraftingTerminal.jar",
-   "DownloadUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.2/WirelessCraftingTerminal-1.11.2.jar"
+   "DownloadUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar"
   },
   {
    "DestPath": "mods/witchery.jar",
