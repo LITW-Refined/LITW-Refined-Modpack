@@ -101,6 +101,35 @@
      "Type": "Update",
      "DestPath": "mods/backpack.jar",
      "DownloadUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.4.3-GTNH/backpack-2.4.3-GTNH.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/Draconic-Evolution.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.3.9-GTNH/Draconic-Evolution-1.3.9-GTNH.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/CodeChickenCore.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.7/CodeChickenCore-1.3.7.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/chisel.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/Chisel/releases/download/2.15.2-GTNH/chisel-2.15.2-GTNH.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
+     "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CustomNPC-Plus-nomixin.jar"
+    },
+    {
+     "Type": "Delete",
+     "DestPath": "mods/1.7.10/CodeChickenLib-1.2.1.jar"
+    },
+    {
+     "Type": "Update",
+     "DestPath": "mods/CarpentersBlocks.jar",
+     "DownloadUrl": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.6.2-GTNH/CarpentersBlocks-3.6.2-GTNH.jar"
     }
    ]
   },
