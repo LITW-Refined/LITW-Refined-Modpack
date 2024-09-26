@@ -307,12 +307,16 @@
     {
       "Name": "MrCrayfishFurnitureMod",
       "DestPath": "mods/MrCrayfishFurnitureMod.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2221/679/MrCrayfishFurnitureModv3.4.7%281.7.10%29.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2221",
+      "SourceTag": "679"
     },
     {
       "Name": "Chest Transporter",
       "DestPath": "mods/ChestTransporter.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2342/400/ChestTransporter-1.7.10-2.0.6.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2342",
+      "SourceTag": "400"
     },
     {
       "Name": "ChickenChunks",
@@ -344,7 +348,9 @@
     {
       "Name": "CoFHCore",
       "DestPath": "mods/-[1.7.10]3.1.4-329.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/750/CoFHCore-%5B1.7.10%5D3.1.4-329.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2388",
+      "SourceTag": "750"
     },
     {
       "Name": "CoreTweaks",
@@ -363,12 +369,16 @@
     {
       "Name": "CraftTweaker",
       "DestPath": "mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2838/720/CraftTweaker-1.7.10-3.1.0-legacy.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2838",
+      "SourceTag": "720"
     },
     {
       "Name": "CraftArcanum",
       "DestPath": "mods/CraftArcanum.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2323/225/CraftArcanum-1.1.1.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2323",
+      "SourceTag": "225"
     },
     {
       "Name": "CustomNPC+",
@@ -387,7 +397,9 @@
     {
       "Name": "Decocraft",
       "DestPath": "mods/Decocraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2414/535/Decocraft-2.4.2_1.7.10.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2414",
+      "SourceTag": "535"
     },
     {
       "Name": "DefaultServerList",
