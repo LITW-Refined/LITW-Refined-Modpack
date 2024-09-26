@@ -1,543 +1,374 @@
 {
   "Version": "1.7.0.0",
-  "IsPublic": true,
   "Actions": [
     {
       "IsZip": true,
       "ZipPath": "modpack-files-main/both",
       "DestPath": "",
-      "SourceUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip"
     },
     {
       "IsZip": true,
       "ZipPath": "modpack-files-main/client",
       "DestPath": "",
       "SourceUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
       "IsZip": true,
       "ZipPath": "modpack-files-main/server",
       "DestPath": "",
       "SourceUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip",
-      "SourceType": "DirectLink",
-      "Side": "Server",
-      "IsExtra": false
+      "Side": "Server"
     },
     {
       "Name": "UniMixins",
-      "IsZip": false,
       "DestPath": "mods/+unimixins-all.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LegacyModdingMC",
       "SourceName": "UniMixins",
       "SourceRegex": "\\+unimixins\\-all\\-.*\\.jar$",
-      "SourceTag": "0.1.17",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "0.1.17"
     },
     {
       "Name": "Adventure Backpack 2",
-      "IsZip": false,
       "DestPath": "mods/adventurebackpack.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AdventureBackpack2",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.2.0-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.2.0-GTNH"
     },
     {
       "Name": "AE2 Fluid Craft",
-      "IsZip": false,
       "DestPath": "mods/ae2fc.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AE2FluidCraft-Rework",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.35-gtnh",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.35-gtnh"
     },
     {
       "Name": "AE2 Stuff",
-      "IsZip": false,
       "DestPath": "mods/ae2stuff.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ae2stuff",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.8.2-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "0.8.2-GTNH"
     },
     {
       "Name": "Alternative Chunkloading",
-      "IsZip": false,
       "DestPath": "mods/alternativechunkloading.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "AlternativeChunkloading",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.1.1",
-      "Side": "Server",
-      "IsExtra": false
+      "Side": "Server"
     },
     {
       "Name": "Ancient Trees",
-      "IsZip": false,
       "DestPath": "mods/AncientTrees.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2261/983/AncientTrees-1.7.10-1.6.4.jar",
       "SourceType": "CurseForge",
       "SourceName": "2261",
-      "SourceTag": "983",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "983"
     },
     {
       "Name": "Another Ore Generator",
-      "IsZip": false,
       "DestPath": "mods/anotheroregenerator.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "AnotherOreGenerator",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.2.1",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "0.2.1"
     },
     {
       "Name": "Antique Atlas",
-      "IsZip": false,
       "DestPath": "mods/antiqueatlas-1.7.10-4.4.0.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2420/506/antiqueatlas-1.7.10-4.4.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2420/506/antiqueatlas-1.7.10-4.4.0.jar"
     },
     {
       "Name": "AppleCore",
-      "IsZip": false,
       "DestPath": "mods/AppleCore.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AppleCore",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.8.2-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "0.8.2-GTNH"
     },
     {
       "Name": "Applied Energistics 2",
-      "IsZip": false,
       "DestPath": "mods/appliedenergistics2.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "appliedenergistics2",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "rv3-beta-450-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "rv3-beta-450-GTNH"
     },
     {
       "Name": "ArchaicFix",
-      "IsZip": false,
       "DestPath": "mods/archaicfix.jar",
       "SourceType": "GitHub",
       "SourceOwner": "embeddedt",
       "SourceName": "ArchaicFix",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.7.4",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "0.7.4"
     },
     {
       "Name": "ArchitectureCraft",
-      "IsZip": false,
       "DestPath": "mods/ArchitectureCraft.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ArchitectureCraft",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.9.3",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.9.3"
     },
     {
       "Name": "AutoSapling",
-      "IsZip": false,
       "DestPath": "mods/AutoSapling-1.1.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/794/AutoSapling-1.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/794/AutoSapling-1.1.jar"
     },
     {
       "Name": "Backpack",
-      "IsZip": false,
       "DestPath": "mods/backpack.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Minecraft-Backpack-Mod",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.4.3-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "2.4.3-GTNH"
     },
     {
       "Name": "Backhand",
-      "IsZip": false,
       "DestPath": "mods/backhand.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Backhand",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.5.12",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.5.12"
     },
     {
       "Name": "Baubles Expanded",
-      "IsZip": false,
       "DestPath": "mods/BaublesExpanded.jar",
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "Baubles-Expanded",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.1.4",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "2.1.4"
     },
     {
       "Name": "bdlib",
-      "IsZip": false,
       "DestPath": "mods/bdlib.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "bdlib",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.10.0-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.10.0-GTNH"
     },
     {
       "Name": "Better Foliage",
-      "IsZip": false,
       "DestPath": "mods/BetterFoliage.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2500/869/BetterFoliage-MC1.7.10-2.0.17.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2500/869/BetterFoliage-MC1.7.10-2.0.17.jar"
     },
     {
       "Name": "BetterP2P",
-      "IsZip": false,
       "DestPath": "mods/betterp2p.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "BetterP2P",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.0",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.0"
     },
     {
       "Name": "BiblioWoods",
-      "IsZip": false,
       "DestPath": "mods/BiblioCraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2423/369/BiblioCraft%5Bv1.11.7%5D%5BMC1.7.10%5D.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2423/369/BiblioCraft%5Bv1.11.7%5D%5BMC1.7.10%5D.jar"
     },
     {
       "Name": "BiblioWoods (BOP)",
-      "IsZip": false,
       "DestPath": "mods/BiblioWoods[BiomesOPlenty].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/577/BiblioWoods%5BBiomesOPlenty%5D%5Bv1.9%5D.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/577/BiblioWoods%5BBiomesOPlenty%5D%5Bv1.9%5D.jar"
     },
     {
       "Name": "BiblioWoods (ExtraBiomesXL)",
-      "IsZip": false,
       "DestPath": "mods/BiblioWoods[ExtraBiomesXL][v1.4].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/579/BiblioWoods%5BExtraBiomesXL%5D%5Bv1.4%5D.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/579/BiblioWoods%5BExtraBiomesXL%5D%5Bv1.4%5D.jar"
     },
     {
       "Name": "BiblioWoods (Forestry)",
-      "IsZip": false,
       "DestPath": "mods/BiblioWoods[Forestry].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/574/BiblioWoods%5BForestry%5D%5Bv1.7%5D.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/574/BiblioWoods%5BForestry%5D%5Bv1.7%5D.jar"
     },
     {
       "Name": "BiblioWoods (Natura)",
-      "IsZip": false,
       "DestPath": "mods/BiblioWoods[Natura].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/581/BiblioWoods%5BNatura%5D%5Bv1.5%5D.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/581/BiblioWoods%5BNatura%5D%5Bv1.5%5D.jar"
     },
     {
       "Name": "BigReactors",
-      "IsZip": false,
       "DestPath": "mods/BigReactors-0.4.3A.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2282/591/BigReactors-0.4.3A.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2282/591/BigReactors-0.4.3A.jar"
     },
     {
       "Name": "Biomes O' Plenty",
-      "IsZip": false,
       "DestPath": "mods/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2499/612/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2499/612/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar"
     },
     {
       "Name": "Bookshelf",
-      "IsZip": false,
       "DestPath": "mods/Bookshelf.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2278/984/Bookshelf-1.7.10-1.0.4.187.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2278/984/Bookshelf-1.7.10-1.0.4.187.jar"
     },
     {
       "Name": "Bontania",
-      "IsZip": false,
       "DestPath": "mods/Botania.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Botania",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.11.5-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.11.5-GTNH"
     },
     {
       "Name": "Bontania",
-      "IsZip": false,
       "DestPath": "mods/BrandonsCore.jar",
       "SourceType": "GitHub",
       "SourceOwner": "BrandonsCore",
       "SourceName": "Botania",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.2.0-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.2.0-GTNH"
     },
     {
       "Name": "BugTorch",
-      "IsZip": false,
       "DestPath": "mods/bugtorch.jar",
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "BugTorch",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.2.13",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.2.13"
     },
     {
       "Name": "BuildCraft Compat",
-      "IsZip": false,
       "DestPath": "mods/buildcraft-compat.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "BuildCraftCompat",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "7.1.17",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "7.1.17"
     },
     {
       "Name": "BuildCraft",
-      "IsZip": false,
       "DestPath": "mods/buildcraft.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "BuildCraft",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "7.1.39",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "7.1.39"
     },
     {
       "Name": "BuildCraft",
-      "IsZip": false,
       "DestPath": "mods/campfirebackport.jar",
       "SourceType": "GitHub",
       "SourceOwner": "connor135246",
       "SourceName": "Campfire-Backport",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "v1.11.1",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "v1.11.1"
     },
     {
       "Name": "Carpenters Blocks",
-      "IsZip": false,
       "DestPath": "mods/CarpentersBlocks.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "CarpentersBlocks",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "3.6.2-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "3.6.2-GTNH"
     },
     {
       "Name": "MrCrayfishFurnitureMod",
-      "IsZip": false,
       "DestPath": "mods/MrCrayfishFurnitureMod.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2221/679/MrCrayfishFurnitureModv3.4.7%281.7.10%29.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2221/679/MrCrayfishFurnitureModv3.4.7%281.7.10%29.jar"
     },
     {
       "Name": "Chest Transporter",
-      "IsZip": false,
       "DestPath": "mods/ChestTransporter.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2342/400/ChestTransporter-1.7.10-2.0.6.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2342/400/ChestTransporter-1.7.10-2.0.6.jar"
     },
     {
       "Name": "ChickenChunks",
-      "IsZip": false,
       "DestPath": "mods/ChickenChunks.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "ChickenChunks",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.4.23-pre",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.4.23-pre"
     },
     {
       "Name": "Chisel",
-      "IsZip": false,
       "DestPath": "mods/chisel.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Chisel",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.15.2-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "2.15.2-GTNH"
     },
     {
       "Name": "CodeChickenCore",
-      "IsZip": false,
       "DestPath": "mods/CodeChickenCore.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "CodeChickenCore",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.7",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.7"
     },
     {
       "Name": "CoFHCore",
-      "IsZip": false,
       "DestPath": "mods/-[1.7.10]3.1.4-329.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/750/CoFHCore-%5B1.7.10%5D3.1.4-329.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/750/CoFHCore-%5B1.7.10%5D3.1.4-329.jar"
     },
     {
       "Name": "CoreTweaks",
-      "IsZip": false,
       "DestPath": "mods/CoreTweaks.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CoreTweaks.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CoreTweaks.jar"
     },
     {
       "Name": "CosmeticArmorReworked",
-      "IsZip": false,
       "DestPath": "mods/CosmeticArmorReworked.jar",
       "SourceType": "GitHub",
       "SourceOwner": "zlainsama",
       "SourceName": "CosmeticArmorReworked",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*\\-v.\\.jar$",
-      "SourceTag": "1.3.7",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.7"
     },
     {
       "Name": "CraftTweaker",
-      "IsZip": false,
       "DestPath": "mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2838/720/CraftTweaker-1.7.10-3.1.0-legacy.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2838/720/CraftTweaker-1.7.10-3.1.0-legacy.jar"
     },
     {
       "Name": "CraftArcanum",
-      "IsZip": false,
       "DestPath": "mods/CraftArcanum.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2323/225/CraftArcanum-1.1.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2323/225/CraftArcanum-1.1.1.jar"
     },
     {
       "Name": "CustomNPC+",
-      "IsZip": false,
       "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CustomNPC-Plus-nomixin.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CustomNPC-Plus-nomixin.jar"
     },
     {
       "Name": "CustomNPC+ Extras",
-      "IsZip": false,
       "DestPath": "mods/customnpcsadvanced.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "CustomNPC-Plus-Extras",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.0.1",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.0.1"
     },
     {
       "Name": "Decocraft",
-      "IsZip": false,
       "DestPath": "mods/Decocraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2414/535/Decocraft-2.4.2_1.7.10.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2414/535/Decocraft-2.4.2_1.7.10.jar"
     },
     {
       "Name": "DefaultServerList",
-      "IsZip": false,
       "DestPath": "mods/defaultserverlist.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
@@ -549,935 +380,489 @@
     },
     {
       "Name": "DefaultWorldGenerator",
-      "IsZip": false,
       "DestPath": "mods/defaultworldgenerator.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "DefaultWorldGenerator",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.3.0",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
       "Name": "Draconic Evolution",
-      "IsZip": false,
       "DestPath": "mods/Draconic-Evolution.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Draconic-Evolution",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.9-GTNH",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.9-GTNH"
     },
     {
       "Name": "MoCreatures Continuation",
-      "IsZip": false,
       "DestPath": "mods/DrZharks.MoCreatures.Mod.jar",
       "SourceType": "GitHub",
       "SourceOwner": "quentin452",
       "SourceName": "Mo-Creatures-Continuation",
       "SourceRegex": "^.*\\.v[0-9\\.\\+\\-]*\\.jar$",
-      "SourceTag": "1.3.7",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceTag": "1.3.7"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/EasyCrafting-1.7.10-2.0.1.16.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2214/328/EasyCrafting-1.7.10-2.0.1.16.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2214/328/EasyCrafting-1.7.10-2.0.1.16.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/EnchantingPlus-1.7.10-3.0.2-d.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2218/324/EnchantingPlus-1.7.10-3.0.2-d.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2218/324/EnchantingPlus-1.7.10-3.0.2-d.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/endercore.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/EnderIO.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.0/EnderIO-2.8.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.0/EnderIO-2.8.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/EnderStorage.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Et_Futurum_Requiem.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=Et_Futurum_Requiem.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=Et_Futurum_Requiem.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ExtrabiomesXL.jar",
-      "SourceUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ExtraButtons-1.7.10.1.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2206/926/ExtraButtons-1.7.10.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2206/926/ExtraButtons-1.7.10.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/extrautilities.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/fastcraft-1.25.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2522/249/fastcraft-1.25.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2522/249/fastcraft-1.25.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/floatingitems.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/FloatingItems/releases/download/1.0/floatingitems-1.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/FloatingItems/releases/download/1.0/floatingitems-1.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/FloodLights.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.3.0/FloodLights-1.3.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.3.0/FloodLights-1.3.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Forestry.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/forgeessentials-client.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-client.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/forgeessentials.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-server.jar",
-      "SourceType": "DirectLink",
-      "Side": "Server",
-      "IsExtra": false
+      "Side": "Server"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ForgeMultipart.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/FullscreenWindowed.jar",
       "SourceUrl": "https://mediafilez.forgecdn.net/files/2317/743/FullscreenWindowed-1.7.10-1.3.0b.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/GardenStuff-1.7.10-1.7.0.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2269/692/GardenStuff-1.7.10-1.7.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2269/692/GardenStuff-1.7.10-1.7.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/grapplemod.jar",
-      "SourceUrl": "https://github.com/unilock/grapplemod/releases/download/1.7.10-v10%2Bfix36.1/grapplemod-1.7.10-v10+fix36.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/unilock/grapplemod/releases/download/1.7.10-v10%2Bfix36.1/grapplemod-1.7.10-v10+fix36.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/gtnhlib.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.2.11/gtnhlib-0.2.11.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.2.11/gtnhlib-0.2.11.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/GUILib.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/GuiLib/releases/download/1.1/guilib-1.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/GuiLib/releases/download/1.1/guilib-1.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/harvestcraft.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=harvestcraft.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=harvestcraft.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/hodgepodge.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.20/hodgepodge-2.5.20.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.20/hodgepodge-2.5.20.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/holoinventory.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/hopperductmod-1.7.10-1.3.2.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/247/hopperductmod-1.7.10-1.3.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/247/hopperductmod-1.7.10-1.3.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/HungerOverhaul.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2332/505/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2332/505/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/iChunUtil.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2338/148/iChunUtil-4.2.3.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2338/148/iChunUtil-4.2.3.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/immersivecavegen.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/4723/376/immersivecavegen-1.2g-hotfix5.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/4723/376/immersivecavegen-1.2g-hotfix5.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ImmersiveEngineering-0.7.7.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2299/19/ImmersiveEngineering-0.7.7.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2299/19/ImmersiveEngineering-0.7.7.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/immersiveintegration.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/inventorytweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.2/inventorytweaks-1.6.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.2/inventorytweaks-1.6.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/IronChest.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.85/IronChest-6.0.85.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.85/IronChest-6.0.85.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/IvToolkit.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2294/442/IvToolkit-1.2.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2294/442/IvToolkit-1.2.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/JABBA.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Jabba/releases/download/1.3.5/JABBA-1.3.5.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Jabba/releases/download/1.3.5/JABBA-1.3.5.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/journeymap.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/4500/658/journeymap-1.7.10-5.1.4p6-unlimited.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/4500/658/journeymap-1.7.10-5.1.4p6-unlimited.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/JustEnoughCalculation.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/JustEnoughCalculation/releases/download/1.7.10-4.0/JustEnoughCalculation-1.7.10-4.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/JustEnoughCalculation/releases/download/1.7.10-4.0/JustEnoughCalculation-1.7.10-4.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/KeyboardWizard-Legacy.jar",
       "SourceUrl": "https://mediafilez.forgecdn.net/files/4030/428/KeyboardWizard-Legacy-Forge-1.7.10-1.0.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/kleeslabs.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2284/547/kleeslabs-mc1.7.10-1.2.9.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2284/547/kleeslabs-mc1.7.10-1.2.9.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/KoreSample-1.7.10-1.3.2.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2244/613/KoreSample-1.7.10-1.3.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2244/613/KoreSample-1.7.10-1.3.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/legacyfixes.jar",
-      "SourceUrl": "https://github.com/unilock/LegacyFixes/releases/download/1.8.1/legacyfixes-1.8.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/unilock/LegacyFixes/releases/download/1.8.1/legacyfixes-1.8.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/LunatriusCore.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.0-GTNH/LunatriusCore-1.2.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.0-GTNH/LunatriusCore-1.2.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Mantle.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Mantle/releases/download/0.4.1/Mantle-0.4.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Mantle/releases/download/0.4.1/Mantle-0.4.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/mcjtylib.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2272/449/mcjtylib-1.8.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2272/449/mcjtylib-1.8.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/MineFactoryReloaded.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2366/149/MineFactoryReloaded-%5B1.7.10%5D2.8.2B1-201.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2366/149/MineFactoryReloaded-%5B1.7.10%5D2.8.2B1-201.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ModernControlling.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=ModernControlling.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ModernKeyBinding.jar",
       "SourceUrl": "https://mediafilez.forgecdn.net/files/4034/362/ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ModTweaker2.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ModTweaker/releases/download/0.11.0/ModTweaker2-0.11.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/ModTweaker/releases/download/0.11.0/ModTweaker2-0.11.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/MouseTweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.17-GTNH/MouseTweaks-2.4.17-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.17-GTNH/MouseTweaks-2.4.17-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/msc2.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/MobSpawnControls2/releases/download/1.3.1/msc2-1.3.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/MobSpawnControls2/releases/download/1.3.1/msc2-1.3.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/mystcraft-1.7.10-0.12.3.04.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2417/42/mystcraft-1.7.10-0.12.3.04.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2417/42/mystcraft-1.7.10-0.12.3.04.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/mystcraftextras.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/MystcraftExtras/releases/download/1.0.0/mystcraftextras-1.0.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/MystcraftExtras/releases/download/1.0.0/mystcraftextras-1.0.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/nashorn.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=nashorn.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=nashorn.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Natura.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Natura/releases/download/2.6.4/Natura-2.6.4.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Natura/releases/download/2.6.4/Natura-2.6.4.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/naturescompass.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NaturesCompass/releases/download/1.4.0-GTNH/naturescompass-1.4.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/NaturesCompass/releases/download/1.4.0-GTNH/naturescompass-1.4.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/NEIAddons.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.15.0/NEIAddons-1.15.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.15.0/NEIAddons-1.15.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/netherportalfix.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.2.0/netherportalfix-1.2.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.2.0/netherportalfix-1.2.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/NoMoreRecipeConflict.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/3479/729/NoMoreRecipeConflict-1.7.10-0.3.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/3479/729/NoMoreRecipeConflict-1.7.10-0.3.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/NotEnoughEnergistics.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.6.0/NotEnoughEnergistics-1.6.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.6.0/NotEnoughEnergistics-1.6.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/notenoughIDs.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.0.3/notenoughIDs-2.0.3.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.0.3/notenoughIDs-2.0.3.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/NotEnoughItems.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.0-GTNH/NotEnoughItems-2.6.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.0-GTNH/NotEnoughItems-2.6.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/notfine.jar",
-      "SourceUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/NovaCraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/5553/197/NovaCraft%20V1.3.5%20%281.7.10%29.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/5553/197/NovaCraft%20V1.3.5%20%281.7.10%29.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/OpenBlocks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.9.1-GTNH/OpenBlocks-1.9.1-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.9.1-GTNH/OpenBlocks-1.9.1-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/OpenModsLibs.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Opis.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.2-mapless/Opis-1.4.2-mapless.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.2-mapless/Opis-1.4.2-mapless.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/OptiFine_1.7.10_HD_U_E7.jar",
-      "SourceUrl": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=41a40eb89a62470cfc27504d2d9555e9",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=41a40eb89a62470cfc27504d2d9555e9"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/optimizationsandtweaks.jar",
-      "SourceUrl": "https://github.com/quentin452/OptimizationsAndTweaks/releases/download/V1.13.9/optimizationsandtweaks-V1.13.9.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/quentin452/OptimizationsAndTweaks/releases/download/V1.13.9/optimizationsandtweaks-V1.13.9.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/OreDictionaryConverter-1.6.1.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2226/312/OreDictionaryConverter-1.6.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2226/312/OreDictionaryConverter-1.6.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/p455w0rdslib.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2359/471/p455w0rdslib-1.7.10-1.0.4.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2359/471/p455w0rdslib-1.7.10-1.0.4.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Pam's Harvest the Nether 1.7.10a.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2241/397/Pam%27s%20Harvest%20the%20Nether%201.7.10a.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2241/397/Pam%27s%20Harvest%20the%20Nether%201.7.10a.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/pilzmcsammelsorium.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/PilzMcSammelsorium/releases/download/1.3.3/pilzmcsammelsorium-1.3.3.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/PilzMcSammelsorium/releases/download/1.3.3/pilzmcsammelsorium-1.3.3.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/plantmegapack.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=plantmegapack.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=plantmegapack.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/plantmegapackfix.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/plantmegapackfix/releases/download/1.0.0/plantmegapackfix-1.0.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/plantmegapackfix/releases/download/1.0.0/plantmegapackfix-1.0.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/RecurrentComplex.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2339/621/RecurrentComplex-0.9.7.1.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2339/621/RecurrentComplex-0.9.7.1.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/RedstonePasteMod-1.7.10-1.6.2.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/249/RedstonePasteMod-1.7.10-1.6.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/249/RedstonePasteMod-1.7.10-1.6.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/rfwindmill.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/rfwindmill/releases/download/v1.0/rfwindmill-v1.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/rfwindmill/releases/download/v1.0/rfwindmill-v1.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/roguelike.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.0-GTNH/roguelike-1.6.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.0-GTNH/roguelike-1.6.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Satchels.jar",
-      "SourceUrl": "https://github.com/makamys/Satchels/releases/download/v1.0.7/Satchels-1.7.10-1.0.7.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/makamys/Satchels/releases/download/v1.0.7/Satchels-1.7.10-1.0.7.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Schematica.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Schematica/releases/download/1.11.1-GTNH/Schematica-1.11.1-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/Schematica/releases/download/1.11.1-GTNH/Schematica-1.11.1-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/serializationisbad.jar",
-      "SourceUrl": "https://github.com/dogboy21/serializationisbad/releases/download/1.5/serializationisbad-1.5.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/dogboy21/serializationisbad/releases/download/1.5/serializationisbad-1.5.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/signpost.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/Signpost/releases/download/v1.9.2/signpost-v1.9.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/Signpost/releases/download/v1.9.2/signpost-v1.9.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/SimpleWorldTimer.jar",
       "SourceUrl": "https://mediafilez.forgecdn.net/files/2859/158/SimpleWorldTimer-1.7.10-1.1.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/sit.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/Sit/releases/download/2.1/sit-2.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/Sit/releases/download/2.1/sit-2.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/skinport.jar",
       "SourceUrl": "https://github.com/LITW-Refined/SkinPort/releases/download/v11.0.0/skinport-v11.0.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Snad.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2279/363/Snad-1.7.10-1.6.01.31a.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2279/363/Snad-1.7.10-1.6.01.31a.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/solarflux.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/SolarFlux/releases/download/v1.0.1/solarflux-v1.0.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/LITW-Refined/SolarFlux/releases/download/v1.0.1/solarflux-v1.0.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/StorageDrawers.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.13.5-GTNH/StorageDrawers-1.13.5-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.13.5-GTNH/StorageDrawers-1.13.5-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/StorageDrawersBop.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.12.0-GTNH/StorageDrawersBop-1.12.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.12.0-GTNH/StorageDrawersBop-1.12.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/StorageDrawersForestry.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.12.0-GTNH/StorageDrawersForestry-1.12.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.12.0-GTNH/StorageDrawersForestry-1.12.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/StorageDrawersNatura.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Natura/releases/download/1.12.0-GTNH/StorageDrawersNatura-1.12.0-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Natura/releases/download/1.12.0-GTNH/StorageDrawersNatura-1.12.0-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/TConstruct.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.1-GTNH/TConstruct-1.12.1-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.1-GTNH/TConstruct-1.12.1-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Thaumcraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/thaumcraftneiplugin.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ThaumcraftResearchTweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.1.0/ThaumcraftResearchTweaks-1.1.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.1.0/ThaumcraftResearchTweaks-1.1.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/thaumicenergistics.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.6.10-GTNH/thaumicenergistics-1.6.10-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.6.10-GTNH/thaumicenergistics-1.6.10-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ThaumicTinkerer.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.9.4/ThaumicTinkerer-2.9.4.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.9.4/ThaumicTinkerer-2.9.4.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ThermalExpansion-[1.7.10]4.1.5-248.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/758/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/758/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/ThermalFoundation-[1.7.10]1.2.6-118.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/752/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/752/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/TiCTooltips.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.1/TiCTooltips-1.3.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.1/TiCTooltips-1.3.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/TMechworks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.3.1/TMechworks-0.3.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.3.1/TMechworks-0.3.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/txloader.jar",
       "SourceUrl": "https://github.com/GTNewHorizons/TX-Loader/releases/download/1.7.0/txloader-1.7.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2304/497/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2304/497/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/VeganOption.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2456/940/VeganOption-mc1.7.10-0.2.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2456/940/VeganOption-mc1.7.10-0.2.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/VillageNames.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/5299/898/VillageNames-1.7.10-4.4.10a.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/5299/898/VillageNames-1.7.10-4.4.10a.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/Waila.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/waila/releases/download/1.8.0/Waila-1.8.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/waila/releases/download/1.8.0/Waila-1.8.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/WailaHarvestability.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.2.1-GTNH/WailaHarvestability-1.2.1-GTNH.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.2.1-GTNH/WailaHarvestability-1.2.1-GTNH.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/WAILAPlugins.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/wildmobsmod.jar",
-      "SourceUrl": "https://github.com/quentin452/wildmobs/releases/download/1.5.4/WildMobs-1.7.10-1.5.4.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/quentin452/wildmobs/releases/download/1.5.4/WildMobs-1.7.10-1.5.4.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/WirelessCraftingTerminal.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/witchery.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/WitcheryExtras.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.2.2/WitcheryExtras-1.2.2.jar",
-      "SourceType": "DirectLink",
-      "Side": "Both",
-      "IsExtra": false
+      "SourceUrl": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.2.2/WitcheryExtras-1.2.2.jar"
     },
     {
-      "IsZip": false,
       "DestPath": "mods/zume.jar",
       "SourceUrl": "https://github.com/Nolij/Zume/releases/download/release%2F0.19.1/zume-0.19.1-sources.jar",
-      "SourceType": "DirectLink",
-      "Side": "Client",
-      "IsExtra": false
+      "Side": "Client"
     }
   ]
 }
