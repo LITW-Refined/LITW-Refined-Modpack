@@ -86,7 +86,9 @@
     {
       "Name": "Antique Atlas",
       "DestPath": "mods/antiqueatlas-1.7.10-4.4.0.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2420/506/antiqueatlas-1.7.10-4.4.0.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2420",
+      "SourceTag": "506"
     },
     {
       "Name": "AppleCore",
@@ -127,7 +129,9 @@
     {
       "Name": "AutoSapling",
       "DestPath": "mods/AutoSapling-1.1.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/794/AutoSapling-1.1.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2211",
+      "SourceTag": "794"
     },
     {
       "Name": "Backpack",
@@ -168,7 +172,9 @@
     {
       "Name": "Better Foliage",
       "DestPath": "mods/BetterFoliage.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2500/869/BetterFoliage-MC1.7.10-2.0.17.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2500",
+      "SourceTag": "869"
     },
     {
       "Name": "BetterP2P",
@@ -182,42 +188,58 @@
     {
       "Name": "BiblioWoods",
       "DestPath": "mods/BiblioCraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2423/369/BiblioCraft%5Bv1.11.7%5D%5BMC1.7.10%5D.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2423",
+      "SourceTag": "369"
     },
     {
       "Name": "BiblioWoods (BOP)",
       "DestPath": "mods/BiblioWoods[BiomesOPlenty].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/577/BiblioWoods%5BBiomesOPlenty%5D%5Bv1.9%5D.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2229",
+      "SourceTag": "577"
     },
     {
       "Name": "BiblioWoods (ExtraBiomesXL)",
       "DestPath": "mods/BiblioWoods[ExtraBiomesXL][v1.4].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/579/BiblioWoods%5BExtraBiomesXL%5D%5Bv1.4%5D.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2229",
+      "SourceTag": "579"
     },
     {
       "Name": "BiblioWoods (Forestry)",
       "DestPath": "mods/BiblioWoods[Forestry].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/574/BiblioWoods%5BForestry%5D%5Bv1.7%5D.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2229",
+      "SourceTag": "574"
     },
     {
       "Name": "BiblioWoods (Natura)",
       "DestPath": "mods/BiblioWoods[Natura].jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2229/581/BiblioWoods%5BNatura%5D%5Bv1.5%5D.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2229",
+      "SourceTag": "581"
     },
     {
       "Name": "BigReactors",
       "DestPath": "mods/BigReactors-0.4.3A.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2282/591/BigReactors-0.4.3A.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2282",
+      "SourceTag": "591"
     },
     {
       "Name": "Biomes O' Plenty",
       "DestPath": "mods/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2499/612/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2499",
+      "SourceTag": "612"
     },
     {
       "Name": "Bookshelf",
       "DestPath": "mods/Bookshelf.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2278/984/Bookshelf-1.7.10-1.0.4.187.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2278",
+      "SourceTag": "948"
     },
     {
       "Name": "Bontania",
