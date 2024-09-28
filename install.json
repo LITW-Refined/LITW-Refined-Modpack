@@ -38,7 +38,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AdventureBackpack2",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.2.0-GTNH"
     },
     {
@@ -48,7 +48,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AE2FluidCraft-Rework",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.35-gtnh"
     },
     {
@@ -58,7 +58,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ae2stuff",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.8.2-GTNH"
     },
     {
@@ -68,7 +68,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "AlternativeChunkloading",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.1.1",
       "Side": "Server"
     },
@@ -87,7 +87,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "AnotherOreGenerator",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.2.1"
     },
     {
@@ -105,7 +105,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AppleCore",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.8.2-GTNH"
     },
     {
@@ -115,7 +115,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "appliedenergistics2",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "rv3-beta-450-GTNH"
     },
     {
@@ -125,7 +125,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "embeddedt",
       "SourceName": "ArchaicFix",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.7.4"
     },
     {
@@ -135,7 +135,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ArchitectureCraft",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.9.3"
     },
     {
@@ -153,7 +153,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Minecraft-Backpack-Mod",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.4.3-GTNH"
     },
     {
@@ -163,7 +163,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Backhand",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.5.12"
     },
     {
@@ -173,7 +173,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "Baubles-Expanded",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.1.4"
     },
     {
@@ -183,7 +183,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "bdlib",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.10.0-GTNH"
     },
     {
@@ -201,7 +201,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "BetterP2P",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.0"
     },
     {
@@ -275,7 +275,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Botania",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.11.5-GTNH"
     },
     {
@@ -285,7 +285,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "BrandonsCore",
       "SourceName": "Botania",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.2.0-GTNH"
     },
     {
@@ -295,7 +295,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "BugTorch",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.2.13"
     },
     {
@@ -305,7 +305,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "BuildCraftCompat",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "7.1.17"
     },
     {
@@ -315,7 +315,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "BuildCraft",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "7.1.39"
     },
     {
@@ -325,7 +325,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "connor135246",
       "SourceName": "Campfire-Backport",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "v1.11.1"
     },
     {
@@ -335,7 +335,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "CarpentersBlocks",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "3.6.2-GTNH"
     },
     {
@@ -361,7 +361,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "ChickenChunks",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.4.23-pre"
     },
     {
@@ -371,7 +371,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Chisel",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.15.2-GTNH"
     },
     {
@@ -381,7 +381,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "CodeChickenCore",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.7"
     },
     {
@@ -437,7 +437,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "CustomNPC-Plus-Extras",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.0.1"
     },
     {
@@ -455,7 +455,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "DefaultServerList",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.5.0",
       "Side": "Client",
       "IsExtra": true
@@ -467,7 +467,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "DefaultWorldGenerator",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.3.0",
       "Side": "Client"
     },
@@ -478,7 +478,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Draconic-Evolution",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.9-GTNH"
     },
     {
@@ -514,7 +514,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderCore",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.4.6"
     },
     {
@@ -524,7 +524,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderIO",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.8.0"
     },
     {
@@ -534,7 +534,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderStorage",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.6.0"
     },
     {
@@ -550,7 +550,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "ExtrabiomesXL",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "3.16.8"
     },
     {
@@ -584,7 +584,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "FloatingItems",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.0"
     },
     {
@@ -594,7 +594,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "FloodLights",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.0"
     },
     {
@@ -604,7 +604,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ForestryMC",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "4.9.3"
     },
     {
@@ -628,7 +628,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ForgeMultipart",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.4.8"
     },
     {
@@ -661,7 +661,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "GTNHLib",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.2.11"
     },
     {
@@ -671,7 +671,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "GuiLib",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.1"
     },
     {
@@ -696,7 +696,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "HoloInventory",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.4.10-GTNH"
     },
     {
@@ -754,7 +754,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "inventory-tweaks",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.6.2"
     },
     {
@@ -764,7 +764,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ironchest",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "6.0.85"
     },
     {
@@ -782,7 +782,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Jabba",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.5"
     },
     {
@@ -800,7 +800,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "JustEnoughCalculation",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.7.10-4.0"
     },
     {
@@ -844,7 +844,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "LunatriusCore",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.2.0-GTNH"
     },
     {
@@ -854,7 +854,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Mantle",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.4.1"
     },
     {
@@ -896,7 +896,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ModTweaker",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.11.0"
     },
     {
@@ -906,7 +906,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "MouseTweaks",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.4.17-GTNH"
     },
     {
@@ -916,7 +916,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "MobSpawnControls2",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.3.1"
     },
     {
@@ -934,7 +934,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "MystcraftExtras",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.0.0"
     },
     {
@@ -950,7 +950,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Natura",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.6.4"
     },
     {
@@ -960,7 +960,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NaturesCompass",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.4.0-GTNH"
     },
     {
@@ -970,7 +970,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "neiaddons",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.15.0"
     },
     {
@@ -980,7 +980,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NetherPortalFix",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.2.0"
     },
     {
@@ -998,7 +998,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughEnergistics",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.6.0"
     },
     {
@@ -1008,7 +1008,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughIds",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.0.3"
     },
     {
@@ -1018,7 +1018,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughItems",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.6.0-GTNH"
     },
     {
@@ -1028,7 +1028,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "NotFine",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.2.5"
     },
     {
@@ -1046,7 +1046,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "OpenBlocks",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.9.1-GTNH"
     },
     {
@@ -1056,7 +1056,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "OpenModsLib",
-      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "0.10.9"
     },
     {
