@@ -1300,7 +1300,7 @@
       "SourceTag": "1.12.0-GTNH"
     },
     {
-      "Id": "mod:tinkersconstruct",
+      "Id": "mod:ticon",
       "Name": "Tinkers Construct",
       "DestPath": "mods/TConstruct.jar",
       "SourceType": "GitHub",
@@ -1372,16 +1372,34 @@
       "SourceTag": "752"
     },
     {
+      "Id": "mod:ticontooltips",
+      "Name": "Tinkers Construct Tooltips",
       "DestPath": "mods/TiCTooltips.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.1/TiCTooltips-1.3.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "TiC-Tooltips",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.3.1"
     },
     {
+      "Id": "mod:timech",
+      "Name": "Tinkers Mechworks",
       "DestPath": "mods/TMechworks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.3.1/TMechworks-0.3.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "TinkersMechworks",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.3.1"
     },
     {
+      "Id": "mod:txloader",
+      "Name": "TX Loader",
       "DestPath": "mods/txloader.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TX-Loader/releases/download/1.7.0/txloader-1.7.0.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "TX-Loader",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.7.0",
       "Side": "Client"
     },
     {
@@ -1409,24 +1427,54 @@
       "SourceTag": "898"
     },
     {
+      "Id": "mod:waila",
+      "Name": "Waila",
       "DestPath": "mods/Waila.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/waila/releases/download/1.8.0/Waila-1.8.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "waila",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.8.0"
     },
     {
+      "Id": "mod:wailaharvestability",
+      "Name": "Waila Harvestability",
       "DestPath": "mods/WailaHarvestability.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.2.1-GTNH/WailaHarvestability-1.2.1-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "WailaHarvestability",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.2.1-GTNH"
     },
     {
+      "Id": "mod:wailaplugins",
+      "Name": "Waila Plugins",
       "DestPath": "mods/WAILAPlugins.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "WAILAPlugins",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.4.0"
     },
     {
+      "Id": "mod:wildmobs",
+      "Name": "Wild Mobs",
       "DestPath": "mods/wildmobsmod.jar",
-      "SourceUrl": "https://github.com/quentin452/wildmobs/releases/download/1.5.4/WildMobs-1.7.10-1.5.4.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "quentin452",
+      "SourceName": "wildmobs",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.5.4"
     },
     {
+      "Id": "mod:ae2wcf",
+      "Name": "AE2 Wireless Crafting Terminal",
       "DestPath": "mods/WirelessCraftingTerminal.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "WirelessCraftingTerminal",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.11.6"
     },
     {
       "Id": "mod:witchery",
@@ -1437,12 +1485,24 @@
       "SourceTag": "410"
     },
     {
+      "Id": "mod:witheryextras",
+      "Name": "Witchery Extras",
       "DestPath": "mods/WitcheryExtras.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.2.2/WitcheryExtras-1.2.2.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "WitcheryExtras",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.2.2"
     },
     {
+      "Id": "mod:zume",
+      "Name": "Zume",
       "DestPath": "mods/zume.jar",
-      "SourceUrl": "https://github.com/Nolij/Zume/releases/download/release%2F0.19.1/zume-0.19.1-sources.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "Nolij",
+      "SourceName": "Zume",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "release/0.19.1",
       "Side": "Client"
     }
   ]
