@@ -988,12 +988,20 @@
       "SourceUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.1-GTNH/TConstruct-1.12.1-GTNH.jar"
     },
     {
+      "Id": "mod:thaumcraft",
+      "Name": "Thaumcraft",
       "DestPath": "mods/Thaumcraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2227",
+      "SourceTag": "552"
     },
     {
+      "Id": "mod:thaumcraftnei",
+      "Name": "Thaumcraft NEI plugin",
       "DestPath": "mods/thaumcraftneiplugin.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2241",
+      "SourceTag": "913"
     },
     {
       "DestPath": "mods/ThaumcraftResearchTweaks.jar",
@@ -1008,12 +1016,20 @@
       "SourceUrl": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.9.4/ThaumicTinkerer-2.9.4.jar"
     },
     {
+      "Id": "mod:thermalexpansion",
+      "Name": "Thermal Expansion",
       "DestPath": "mods/ThermalExpansion-[1.7.10]4.1.5-248.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/758/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2388",
+      "SourceTag": "758"
     },
     {
+      "Id": "mod:thermalfoundation",
+      "Name": "Thermal Foundation",
       "DestPath": "mods/ThermalFoundation-[1.7.10]1.2.6-118.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2388/752/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2388",
+      "SourceTag": "752"
     },
     {
       "DestPath": "mods/TiCTooltips.jar",
@@ -1029,16 +1045,28 @@
       "Side": "Client"
     },
     {
+      "Id": "mod:undergroundbiomes",
+      "Name": "Underground Biomes Constructs",
       "DestPath": "mods/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2304/497/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2304",
+      "SourceTag": "497"
     },
     {
+      "Id": "mod:veganoption",
+      "Name": "VeganOption",
       "DestPath": "mods/VeganOption.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2456/940/VeganOption-mc1.7.10-0.2.2.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2456",
+      "SourceTag": "940"
     },
     {
+      "Id": "mod:villagenames",
+      "Name": "VillageNames",
       "DestPath": "mods/VillageNames.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/5299/898/VillageNames-1.7.10-4.4.10a.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "5299",
+      "SourceTag": "898"
     },
     {
       "DestPath": "mods/Waila.jar",
@@ -1061,8 +1089,12 @@
       "SourceUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar"
     },
     {
+      "Id": "mod:witchery",
+      "Name": "Witchery",
       "DestPath": "mods/witchery.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2234",
+      "SourceTag": "410"
     },
     {
       "DestPath": "mods/WitcheryExtras.jar",
