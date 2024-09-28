@@ -77,8 +77,8 @@
       "Name": "Ancient Trees",
       "DestPath": "mods/AncientTrees.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2261",
-      "SourceTag": "983"
+      "SourceName": "229626",
+      "SourceTag": "2261983"
     },
     {
       "Id": "mod:anotheroregen",
@@ -95,8 +95,8 @@
       "Name": "Antique Atlas",
       "DestPath": "mods/antiqueatlas-1.7.10-4.4.0.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2420",
-      "SourceTag": "506"
+      "SourceName": "227795",
+      "SourceTag": "2420506"
     },
     {
       "Id": "mod:applecore",
@@ -143,8 +143,8 @@
       "Name": "AutoSapling",
       "DestPath": "mods/AutoSapling-1.1.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2211",
-      "SourceTag": "794"
+      "SourceName": "222415",
+      "SourceTag": "2211794"
     },
     {
       "Id": "mod:backpack",
@@ -191,8 +191,8 @@
       "Name": "Better Foliage",
       "DestPath": "mods/BetterFoliage.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2500",
-      "SourceTag": "869"
+      "SourceName": "228529",
+      "SourceTag": "2500869"
     },
     {
       "Id": "mod:betterp2p",
@@ -205,68 +205,68 @@
       "SourceTag": "1.3.0"
     },
     {
-      "Id": "mod:bibliowoods",
+      "Id": "mod:bibliocraft",
       "Name": "BiblioWoods",
       "DestPath": "mods/BiblioCraft.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2423",
-      "SourceTag": "369"
+      "SourceName": "228027",
+      "SourceTag": "2423369"
     },
     {
       "Id": "mod:bibliowoodsbop",
       "Name": "BiblioWoods (BOP)",
       "DestPath": "mods/BiblioWoods[BiomesOPlenty].jar",
       "SourceType": "CurseForge",
-      "SourceName": "2229",
-      "SourceTag": "577"
+      "SourceName": "228362",
+      "SourceTag": "2229577"
     },
     {
       "Id": "mod:bibliowoodseb",
       "Name": "BiblioWoods (ExtraBiomesXL)",
       "DestPath": "mods/BiblioWoods[ExtraBiomesXL][v1.4].jar",
       "SourceType": "CurseForge",
-      "SourceName": "2229",
-      "SourceTag": "579"
+      "SourceName": "228365",
+      "SourceTag": "2229579"
     },
     {
       "Id": "mod:bibliowoodsf",
       "Name": "BiblioWoods (Forestry)",
       "DestPath": "mods/BiblioWoods[Forestry].jar",
       "SourceType": "CurseForge",
-      "SourceName": "2229",
-      "SourceTag": "574"
+      "SourceName": "228363",
+      "SourceTag": "2229574"
     },
     {
       "Id": "mod:bibliowoodsn",
       "Name": "BiblioWoods (Natura)",
       "DestPath": "mods/BiblioWoods[Natura].jar",
       "SourceType": "CurseForge",
-      "SourceName": "2229",
-      "SourceTag": "581"
+      "SourceName": "228364",
+      "SourceTag": "2229581"
     },
     {
       "Id": "mod:bigreactors",
       "Name": "BigReactors",
       "DestPath": "mods/BigReactors-0.4.3A.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2282",
-      "SourceTag": "591"
+      "SourceName": "241994",
+      "SourceTag": "2282591"
     },
     {
       "Id": "mod:bop",
       "Name": "Biomes O' Plenty",
       "DestPath": "mods/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2499",
-      "SourceTag": "612"
+      "SourceName": "220318",
+      "SourceTag": "2499612"
     },
     {
       "Id": "mod:bookshelf",
       "Name": "Bookshelf",
       "DestPath": "mods/Bookshelf.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2278",
-      "SourceTag": "948"
+      "SourceName": "228525",
+      "SourceTag": "2278948"
     },
     {
       "Id": "mod:botania",
@@ -343,16 +343,16 @@
       "Name": "MrCrayfishFurnitureMod",
       "DestPath": "mods/MrCrayfishFurnitureMod.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2221",
-      "SourceTag": "679"
+      "SourceName": "55438",
+      "SourceTag": "2221679"
     },
     {
       "Id": "mod:chesttransporter",
       "Name": "Chest Transporter",
       "DestPath": "mods/ChestTransporter.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2342",
-      "SourceTag": "400"
+      "SourceName": "78778",
+      "SourceTag": "2342400"
     },
     {
       "Id": "mod:chickenchunks",
@@ -387,10 +387,10 @@
     {
       "Id": "mod:cofhcore",
       "Name": "CoFHCore",
-      "DestPath": "mods/-[1.7.10]3.1.4-329.jar",
+      "DestPath": "mods/CoFHCore-[1.7.10]3.1.4-329.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2388",
-      "SourceTag": "750"
+      "SourceName": "69162",
+      "SourceTag": "2388750"
     },
     {
       "Id": "mod:coretweaks",
@@ -413,16 +413,16 @@
       "Name": "CraftTweaker",
       "DestPath": "mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2838",
-      "SourceTag": "720"
+      "SourceName": "239197",
+      "SourceTag": "2838720"
     },
     {
       "Id": "mod:craftarcanum",
       "Name": "CraftArcanum",
       "DestPath": "mods/CraftArcanum.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2323",
-      "SourceTag": "225"
+      "SourceName": "242480",
+      "SourceTag": "2323225"
     },
     {
       "Id": "mod:cnpc+",
@@ -445,8 +445,8 @@
       "Name": "Decocraft",
       "DestPath": "mods/Decocraft.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2414",
-      "SourceTag": "535"
+      "SourceName": "79616",
+      "SourceTag": "2414535"
     },
     {
       "Id": "mod:defaultserverlist",
@@ -496,16 +496,16 @@
       "Name": "EasyCrafting",
       "DestPath": "mods/EasyCrafting-1.7.10-2.0.1.16.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2214",
-      "SourceTag": "328"
+      "SourceName": "224295",
+      "SourceTag": "2214328"
     },
     {
       "Id": "mod:entchantingplus",
       "Name": "EntchantingPlus",
       "DestPath": "mods/EnchantingPlus-1.7.10-3.0.2-d.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2218",
-      "SourceTag": "324"
+      "SourceName": "59413",
+      "SourceTag": "2218324"
     },
     {
       "Id": "mod:endercore",
@@ -558,24 +558,24 @@
       "Name": "ExtraButtons",
       "DestPath": "mods/ExtraButtons-1.7.10.1.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2206",
-      "SourceTag": "926"
+      "SourceName": "60991",
+      "SourceTag": "2206926"
     },
     {
       "Id": "mod:extrautilities",
       "Name": "ExtraUtilities",
       "DestPath": "mods/extrautilities.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2264",
-      "SourceTag": "383"
+      "SourceName": "225561",
+      "SourceTag": "2264383"
     },
     {
       "Id": "mod:fastcraft",
       "Name": "Fastcraft",
       "DestPath": "mods/fastcraft-1.25.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2522",
-      "SourceTag": "249"
+      "SourceName": "242677",
+      "SourceTag": "2522249"
     },
     {
       "Id": "mod:floatingitems",
@@ -636,8 +636,8 @@
       "Name": "Fullscreen Windowed",
       "DestPath": "mods/FullscreenWindowed.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2317",
-      "SourceTag": "743",
+      "SourceName": "227441",
+      "SourceTag": "2317743",
       "Side": "Client"
     },
     {
@@ -645,8 +645,8 @@
       "Name": "GardenStuff",
       "DestPath": "mods/GardenStuff-1.7.10-1.7.0.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2269",
-      "SourceTag": "692"
+      "SourceName": "225903",
+      "SourceTag": "2269692"
     },
     {
       "Id": "mod:grapple",
@@ -704,48 +704,48 @@
       "Name": "HopperDuctMod",
       "DestPath": "mods/hopperductmod-1.7.10-1.3.2.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2211",
-      "SourceTag": "247"
+      "SourceName": "72210",
+      "SourceTag": "2211247"
     },
     {
       "Id": "mod:hungeroverhaul",
       "Name": "HungerOverhaul",
       "DestPath": "mods/HungerOverhaul.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2332",
-      "SourceTag": "505"
+      "SourceName": "224476",
+      "SourceTag": "2332505"
     },
     {
       "Id": "mod:ichunutil",
       "Name": "iChunUtil",
       "DestPath": "mods/iChunUtil.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2338",
-      "SourceTag": "148"
+      "SourceName": "229060",
+      "SourceTag": "2338148"
     },
     {
       "Id": "mod:immersivecavegen",
       "Name": "Immersive Cavegen",
       "DestPath": "mods/immersivecavegen.jar",
       "SourceType": "CurseForge",
-      "SourceName": "4723",
-      "SourceTag": "376"
+      "SourceName": "521557",
+      "SourceTag": "4723376"
     },
     {
       "Id": "mod:immersiveengineering",
       "Name": "Immersive Engineering",
       "DestPath": "mods/ImmersiveEngineering-0.7.7.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2299",
-      "SourceTag": "19"
+      "SourceName": "231951",
+      "SourceTag": "229919"
     },
     {
       "Id": "mod:immersiveintegration",
       "Name": "Immersive Integration",
       "DestPath": "mods/immersiveintegration.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2289",
-      "SourceTag": "306"
+      "SourceName": "232159",
+      "SourceTag": "2289306"
     },
     {
       "Id": "mod:inventorytweaks",
@@ -772,8 +772,8 @@
       "Name": "IvToolkit",
       "DestPath": "mods/IvToolkit.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2294",
-      "SourceTag": "442"
+      "SourceName": "224535",
+      "SourceTag": "2294442"
     },
     {
       "Id": "mod:jabba",
@@ -790,8 +790,8 @@
       "Name": "JourneyMap",
       "DestPath": "mods/journeymap.jar",
       "SourceType": "CurseForge",
-      "SourceName": "4500",
-      "SourceTag": "658"
+      "SourceName": "32274",
+      "SourceTag": "4500658"
     },
     {
       "Id": "mod:justenoughcalculation",
@@ -808,8 +808,8 @@
       "Name": "KeyboardWizard Legacy",
       "DestPath": "mods/KeyboardWizard-Legacy.jar",
       "SourceType": "CurseForge",
-      "SourceName": "4030",
-      "SourceTag": "428",
+      "SourceName": "689007",
+      "SourceTag": "4030428",
       "Side": "Client"
     },
     {
@@ -817,16 +817,16 @@
       "Name": "Kleeslap",
       "DestPath": "mods/kleeslabs.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2284",
-      "SourceTag": "547"
+      "SourceName": "241895",
+      "SourceTag": "2284547"
     },
     {
       "Id": "mod:koresample",
       "Name": "KoreSample",
       "DestPath": "mods/KoreSample-1.7.10-1.3.2.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2244",
-      "SourceTag": "613"
+      "SourceName": "229624",
+      "SourceTag": "2244613"
     },
     {
       "Id": "mod:legacyfixes",
@@ -862,16 +862,16 @@
       "Name": "mcjtylib",
       "DestPath": "mods/mcjtylib.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2272",
-      "SourceTag": "449"
+      "SourceName": "233105",
+      "SourceTag": "2272449"
     },
     {
       "Id": "mod:mfr",
       "Name": "MineFactoryReloaded",
       "DestPath": "mods/MineFactoryReloaded.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2366",
-      "SourceTag": "149"
+      "SourceName": "66672",
+      "SourceTag": "2366149"
     },
     {
       "Id": "mod:moderncontrolling",
@@ -885,8 +885,8 @@
       "Name": "Modern Key Bnding",
       "DestPath": "mods/ModernKeyBinding.jar",
       "SourceType": "CurseForge",
-      "SourceName": "4034",
-      "SourceTag": "362",
+      "SourceName": "686846",
+      "SourceTag": "4034362",
       "Side": "Client"
     },
     {
@@ -924,8 +924,8 @@
       "Name": "Mystcraft",
       "DestPath": "mods/mystcraft-1.7.10-0.12.3.04.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2417",
-      "SourceTag": "42"
+      "SourceName": "224599",
+      "SourceTag": "241742"
     },
     {
       "Id": "mod:mystcraftextras",
@@ -988,8 +988,8 @@
       "Name": "No More Recipe Conflict",
       "DestPath": "mods/NoMoreRecipeConflict.jar",
       "SourceType": "CurseForge",
-      "SourceName": "3479",
-      "SourceTag": "729"
+      "SourceName": "533411",
+      "SourceTag": "3479729"
     },
     {
       "Id": "mod:notenoughenergistics",
@@ -1036,8 +1036,8 @@
       "Name": "NovaCraft",
       "DestPath": "mods/NovaCraft.jar",
       "SourceType": "CurseForge",
-      "SourceName": "5553",
-      "SourceTag": "197"
+      "SourceName": "705131",
+      "SourceTag": "5553197"
     },
     {
       "Id": "mod:openblocks",
@@ -1090,24 +1090,24 @@
       "Name": "OreDictionary Converter",
       "DestPath": "mods/OreDictionaryConverter-1.6.1.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2226",
-      "SourceTag": "312"
+      "SourceName": "227564",
+      "SourceTag": "2226312"
     },
     {
       "Id": "mod:p455w0rdslib",
       "Name": "p455w0rdslib",
       "DestPath": "mods/p455w0rdslib.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2359",
-      "SourceTag": "471"
+      "SourceName": "255232",
+      "SourceTag": "2359471"
     },
     {
       "Id": "mod:pamsharvestnether",
       "Name": "Pam's Harvest the Nether",
       "DestPath": "mods/Pam's Harvest the Nether 1.7.10a.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2241",
-      "SourceTag": "397"
+      "SourceName": "231262",
+      "SourceTag": "2241397"
     },
     {
       "Id": "mod:pilzmcsammelsorium",
@@ -1140,16 +1140,16 @@
       "Name": "Recurrent Complex",
       "DestPath": "mods/RecurrentComplex.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2339",
-      "SourceTag": "621"
+      "SourceName": "223150",
+      "SourceTag": "2339621"
     },
     {
       "Id": "mod:restonepaste",
       "Name": "Restone Paste Mod",
       "DestPath": "mods/RedstonePasteMod-1.7.10-1.6.2.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2211",
-      "SourceTag": "249"
+      "SourceName": "67508",
+      "SourceTag": "2211249"
     },
     {
       "Id": "mod:rfwindmill",
@@ -1216,8 +1216,8 @@
       "Name": "SimpleWorldTimer",
       "DestPath": "mods/SimpleWorldTimer.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2859",
-      "SourceTag": "158",
+      "SourceName": "349565",
+      "SourceTag": "2859158",
       "Side": "Client"
     },
     {
@@ -1246,8 +1246,8 @@
       "Name": "Snad",
       "DestPath": "mods/Snad.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2279",
-      "SourceTag": "363"
+      "SourceName": "241344",
+      "SourceTag": "2279363"
     },
     {
       "Id": "mod:solarflux",
@@ -1314,16 +1314,16 @@
       "Name": "Thaumcraft",
       "DestPath": "mods/Thaumcraft.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2227",
-      "SourceTag": "552"
+      "SourceName": "223628",
+      "SourceTag": "2227552"
     },
     {
       "Id": "mod:thaumcraftnei",
       "Name": "Thaumcraft NEI plugin",
       "DestPath": "mods/thaumcraftneiplugin.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2241",
-      "SourceTag": "913"
+      "SourceName": "225095",
+      "SourceTag": "2241913"
     },
     {
       "Id": "mod:thaumcraftresearchtweaks",
@@ -1360,16 +1360,16 @@
       "Name": "Thermal Expansion",
       "DestPath": "mods/ThermalExpansion-[1.7.10]4.1.5-248.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2388",
-      "SourceTag": "758"
+      "SourceName": "69163",
+      "SourceTag": "2388758"
     },
     {
       "Id": "mod:thermalfoundation",
       "Name": "Thermal Foundation",
       "DestPath": "mods/ThermalFoundation-[1.7.10]1.2.6-118.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2388",
-      "SourceTag": "752"
+      "SourceName": "222880",
+      "SourceTag": "2388752"
     },
     {
       "Id": "mod:ticontooltips",
@@ -1407,24 +1407,24 @@
       "Name": "Underground Biomes Constructs",
       "DestPath": "mods/UndergroundBiomesConstructs-1.7.10-0.8-beta49.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2304",
-      "SourceTag": "497"
+      "SourceName": "72744",
+      "SourceTag": "2304497"
     },
     {
       "Id": "mod:veganoption",
       "Name": "VeganOption",
       "DestPath": "mods/VeganOption.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2456",
-      "SourceTag": "940"
+      "SourceName": "227309",
+      "SourceTag": "2456940"
     },
     {
       "Id": "mod:villagenames",
       "Name": "VillageNames",
       "DestPath": "mods/VillageNames.jar",
       "SourceType": "CurseForge",
-      "SourceName": "5299",
-      "SourceTag": "898"
+      "SourceName": "259230",
+      "SourceTag": "5299898"
     },
     {
       "Id": "mod:waila",
@@ -1481,8 +1481,8 @@
       "Name": "Witchery",
       "DestPath": "mods/witchery.jar",
       "SourceType": "CurseForge",
-      "SourceName": "2234",
-      "SourceTag": "410"
+      "SourceName": "69673",
+      "SourceTag": "2234410"
     },
     {
       "Id": "mod:witheryextras",
