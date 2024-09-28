@@ -1152,28 +1152,64 @@
       "SourceTag": "249"
     },
     {
+      "Id": "mod:rfwindmill",
+      "Name": "RF Windmill",
       "DestPath": "mods/rfwindmill.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/rfwindmill/releases/download/v1.0/rfwindmill-v1.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "rfwindmill",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "v1.0"
     },
     {
+      "Id": "mod:rougelike",
+      "Name": "Roguelike Doungens",
       "DestPath": "mods/roguelike.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.0-GTNH/roguelike-1.6.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Roguelike-Dungeons",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.6.0-GTNH"
     },
     {
+      "Id": "mod:satchels",
+      "Name": "Satchels",
       "DestPath": "mods/Satchels.jar",
-      "SourceUrl": "https://github.com/makamys/Satchels/releases/download/v1.0.7/Satchels-1.7.10-1.0.7.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "makamys",
+      "SourceName": "Satchels",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "v1.0.7"
     },
     {
+      "Id": "mod:schemantica",
+      "Name": "Schemantica",
       "DestPath": "mods/Schematica.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Schematica/releases/download/1.11.1-GTNH/Schematica-1.11.1-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Schematica",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.11.1-GTNH"
     },
     {
+      "Id": "mod:serializationisbad",
+      "Name": "Serializationisbad",
       "DestPath": "mods/serializationisbad.jar",
-      "SourceUrl": "https://github.com/dogboy21/serializationisbad/releases/download/1.5/serializationisbad-1.5.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "dogboy21",
+      "SourceName": "serializationisbad",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.5"
     },
     {
+      "Id": "mod:singpost",
+      "Name": "Singpost",
       "DestPath": "mods/signpost.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/Signpost/releases/download/v1.9.2/signpost-v1.9.2.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "Signpost",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "v1.9.2"
     },
     {
       "Id": "mod:simpleworldtimer",
@@ -1185,12 +1221,24 @@
       "Side": "Client"
     },
     {
+      "Id": "mod:sit",
+      "Name": "Sit",
       "DestPath": "mods/sit.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/Sit/releases/download/2.1/sit-2.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "Sit",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.1"
     },
     {
+      "Id": "mod:skinport",
+      "Name": "SkinPort",
       "DestPath": "mods/skinport.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/SkinPort/releases/download/v11.0.0/skinport-v11.0.0.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "SkinPort",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "v11.0.0",
       "Side": "Client"
     },
     {
@@ -1202,28 +1250,64 @@
       "SourceTag": "363"
     },
     {
+      "Id": "mod:solarflux",
+      "Name": "Solar Flux",
       "DestPath": "mods/solarflux.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/SolarFlux/releases/download/v1.0.1/solarflux-v1.0.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "SolarFlux",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "v1.0.1"
     },
     {
+      "Id": "mod:storagedrawers",
+      "Name": "Storage Drawers",
       "DestPath": "mods/StorageDrawers.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.13.5-GTNH/StorageDrawers-1.13.5-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "StorageDrawers",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.13.5-GTNH"
     },
     {
+      "Id": "mod:storagedrawersbop",
+      "Name": "Storage Drawers BOP",
       "DestPath": "mods/StorageDrawersBop.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.12.0-GTNH/StorageDrawersBop-1.12.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "StorageDrawers-BiomesOPlenty",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.12.0-GTNH"
     },
     {
+      "Id": "mod:storagedrawersforestry",
+      "Name": "Storage Drawers Forestry",
       "DestPath": "mods/StorageDrawersForestry.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.12.0-GTNH/StorageDrawersForestry-1.12.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "StorageDrawers-Forestry",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.12.0-GTNH"
     },
     {
+      "Id": "mod:storagedrawersnatura",
+      "Name": "Storage Drawers Natura",
       "DestPath": "mods/StorageDrawersNatura.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Natura/releases/download/1.12.0-GTNH/StorageDrawersNatura-1.12.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "StorageDrawers-Natura",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.12.0-GTNH"
     },
     {
+      "Id": "mod:tinkersconstruct",
+      "Name": "Tinkers Construct",
       "DestPath": "mods/TConstruct.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.1-GTNH/TConstruct-1.12.1-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "TinkersConstruct",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.12.1-GTNH"
     },
     {
       "Id": "mod:thaumcraft",
@@ -1242,16 +1326,34 @@
       "SourceTag": "913"
     },
     {
+      "Id": "mod:thaumcraftresearchtweaks",
+      "Name": "Thaumcraft Research Tweaks",
       "DestPath": "mods/ThaumcraftResearchTweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.1.0/ThaumcraftResearchTweaks-1.1.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "thaumcraft-research-tweaks",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.1.0"
     },
     {
+      "Id": "mod:thaumicenergistics",
+      "Name": "Thaumic Energistics",
       "DestPath": "mods/thaumicenergistics.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.6.10-GTNH/thaumicenergistics-1.6.10-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "ThaumicEnergistics",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.6.10-GTNH"
     },
     {
+      "Id": "mod:thaumictinker",
+      "Name": "Thaumic Tinker",
       "DestPath": "mods/ThaumicTinkerer.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.9.4/ThaumicTinkerer-2.9.4.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "ThaumicTinkerer",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.9.4"
     },
     {
       "Id": "mod:thermalexpansion",
