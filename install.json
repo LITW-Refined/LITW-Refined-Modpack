@@ -511,7 +511,6 @@
       "Id": "mod:endercore",
       "Name": "EnderCore",
       "DestPath": "mods/EnderCore.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderCore",
@@ -522,7 +521,6 @@
       "Id": "mod:enderio",
       "Name": "Ender IO",
       "DestPath": "mods/EnderIO.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.0/EnderIO-2.8.0.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderIO",
@@ -533,7 +531,6 @@
       "Id": "mod:enderstorage",
       "Name": "Ender Storage",
       "DestPath": "mods/EnderStorage.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderStorage",
@@ -550,7 +547,6 @@
       "Id": "mod:extrabiomes",
       "Name": "Extrabimes XL",
       "DestPath": "mods/ExtrabiomesXL.jar",
-      "SourceUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar",
       "SourceType": "GitHub",
       "SourceOwner": "jss2a98aj",
       "SourceName": "ExtrabiomesXL",
@@ -585,7 +581,6 @@
       "Id": "mod:floatingitems",
       "Name": "Floating Items",
       "DestPath": "mods/floatingitems.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/FloatingItems/releases/download/1.0/floatingitems-1.0.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "FloatingItems",
@@ -596,7 +591,6 @@
       "Id": "mod:floodlights",
       "Name": "Flood Lights",
       "DestPath": "mods/FloodLights.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.3.0/FloodLights-1.3.0.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "FloodLights",
@@ -607,7 +601,6 @@
       "Id": "mod:forestry",
       "Name": "Forestry",
       "DestPath": "mods/Forestry.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ForestryMC",
@@ -632,7 +625,6 @@
       "Id": "mod:forgemultipart",
       "Name": "Forge Multipart",
       "DestPath": "mods/ForgeMultipart.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ForgeMultipart",
@@ -666,7 +658,6 @@
       "Id": "mod:gtnhlib",
       "Name": "GTNHLib",
       "DestPath": "mods/gtnhlib.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.2.11/gtnhlib-0.2.11.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "GTNHLib",
@@ -677,7 +668,6 @@
       "Id": "mod:guilib",
       "Name": "GuiLib",
       "DestPath": "mods/GUILib.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/GuiLib/releases/download/1.1/guilib-1.1.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "GuiLib",
@@ -694,7 +684,6 @@
       "Id": "mod:hodgepodge",
       "Name": "Hodgepodge",
       "DestPath": "mods/hodgepodge.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.20/hodgepodge-2.5.20.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Hodgepodge",
@@ -704,7 +693,6 @@
       "Id": "mod:holoinventory",
       "Name": "HoloInventory",
       "DestPath": "mods/holoinventory.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "HoloInventory",
@@ -760,24 +748,42 @@
       "SourceTag": "306"
     },
     {
+      "Id": "mod:inventorytweaks",
+      "Name": "Inventory Tweaks",
       "DestPath": "mods/inventorytweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.2/inventorytweaks-1.6.2.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "inventory-tweaks",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.6.2"
     },
     {
+      "Id": "mod:ironchest",
+      "Name": "IronChest",
       "DestPath": "mods/IronChest.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.85/IronChest-6.0.85.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "ironchest",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "6.0.85"
     },
     {
-      "Id": "mod:jabba",
-      "Name": "JABBA",
+      "Id": "mod:ivtoolkit",
+      "Name": "IvToolkit",
       "DestPath": "mods/IvToolkit.jar",
       "SourceType": "CurseForge",
       "SourceName": "2294",
       "SourceTag": "442"
     },
     {
+      "Id": "mod:jabba",
+      "Name": "JABBA",
       "DestPath": "mods/JABBA.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Jabba/releases/download/1.3.5/JABBA-1.3.5.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Jabba",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.3.5"
     },
     {
       "Id": "mod:journeymap",
@@ -788,8 +794,14 @@
       "SourceTag": "658"
     },
     {
+      "Id": "mod:justenoughcalculation",
+      "Name": "JustEnoughCalculation",
       "DestPath": "mods/JustEnoughCalculation.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/JustEnoughCalculation/releases/download/1.7.10-4.0/JustEnoughCalculation-1.7.10-4.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "JustEnoughCalculation",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.7.10-4.0"
     },
     {
       "Id": "mod:keyboardwizard",
@@ -817,16 +829,33 @@
       "SourceTag": "613"
     },
     {
+      "Id": "mod:legacyfixes",
+      "Name": "Legacy Fixes",
       "DestPath": "mods/legacyfixes.jar",
-      "SourceUrl": "https://github.com/unilock/LegacyFixes/releases/download/1.8.1/legacyfixes-1.8.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "unilock",
+      "SourceName": "LegacyFixes",
+      "SourceTag": "1.8.1"
     },
     {
+      "Id": "mod:lunatriuscore",
+      "Name": "Lunatrius Core",
       "DestPath": "mods/LunatriusCore.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.0-GTNH/LunatriusCore-1.2.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "LunatriusCore",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.2.0-GTNH"
     },
     {
+      "Id": "mod:mantle",
+      "Name": "Mantle",
       "DestPath": "mods/Mantle.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Mantle/releases/download/0.4.1/Mantle-0.4.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Mantle",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.4.1"
     },
     {
       "Id": "mod:mcjtylib",
@@ -845,6 +874,8 @@
       "SourceTag": "149"
     },
     {
+      "Id": "mod:moderncontrolling",
+      "Name": "Modern Controlling",
       "DestPath": "mods/ModernControlling.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=ModernControlling.jar",
       "Side": "Client"
@@ -859,16 +890,34 @@
       "Side": "Client"
     },
     {
+      "Id": "mod:modtweaker",
+      "Name": "Mod Tweaker",
       "DestPath": "mods/ModTweaker2.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ModTweaker/releases/download/0.11.0/ModTweaker2-0.11.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "ModTweaker",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.11.0"
     },
     {
+      "Id": "mod:mousetweaks",
+      "Name": "Mouse Tweaks",
       "DestPath": "mods/MouseTweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.17-GTNH/MouseTweaks-2.4.17-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "MouseTweaks",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.4.17-GTNH"
     },
     {
+      "Id": "mod:mobspawncontrol",
+      "Name": "MobSpawnControl",
       "DestPath": "mods/msc2.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/MobSpawnControls2/releases/download/1.3.1/msc2-1.3.1.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "MobSpawnControls2",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.3.1"
     },
     {
       "Id": "mod:mystcraft",
@@ -879,28 +928,60 @@
       "SourceTag": "42"
     },
     {
+      "Id": "mod:mystcraftextras",
+      "Name": "Mystcraft Extras",
       "DestPath": "mods/mystcraftextras.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/MystcraftExtras/releases/download/1.0.0/mystcraftextras-1.0.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "MystcraftExtras",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.0.0"
     },
     {
+      "Id": "mod:nashorn",
+      "Name": "Nashorn",
       "DestPath": "mods/nashorn.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=nashorn.jar"
     },
     {
+      "Id": "mod:natura",
+      "Name": "Natura",
       "DestPath": "mods/Natura.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Natura/releases/download/2.6.4/Natura-2.6.4.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Natura",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.6.4"
     },
     {
+      "Id": "mod:naturescompass",
+      "Name": "Natures Compass",
       "DestPath": "mods/naturescompass.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NaturesCompass/releases/download/1.4.0-GTNH/naturescompass-1.4.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "NaturesCompass",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.4.0-GTNH"
     },
     {
+      "Id": "mod:neiaddons",
+      "Name": "NEI Addons",
       "DestPath": "mods/NEIAddons.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.15.0/NEIAddons-1.15.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "neiaddons",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.15.0"
     },
     {
+      "Id": "mod:netherportalfix",
+      "Name": "Nether Portal Fix",
       "DestPath": "mods/netherportalfix.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.2.0/netherportalfix-1.2.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "NetherPortalFix",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.2.0"
     },
     {
       "Id": "mod:nomorerecipeconflict",
@@ -911,20 +992,44 @@
       "SourceTag": "729"
     },
     {
+      "Id": "mod:notenoughenergistics",
+      "Name": "NotEnoughEnergistics",
       "DestPath": "mods/NotEnoughEnergistics.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.6.0/NotEnoughEnergistics-1.6.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "NotEnoughEnergistics",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.6.0"
     },
     {
+      "Id": "mod:notenoughids",
+      "Name": "NotEnoughIds",
       "DestPath": "mods/notenoughIDs.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.0.3/notenoughIDs-2.0.3.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "NotEnoughIds",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.0.3"
     },
     {
+      "Id": "mod:notenoughitems",
+      "Name": "NotEnoughItems",
       "DestPath": "mods/NotEnoughItems.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.0-GTNH/NotEnoughItems-2.6.0-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "NotEnoughItems",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.6.0-GTNH"
     },
     {
+      "Id": "mod:notfine",
+      "Name": "NotFine",
       "DestPath": "mods/notfine.jar",
-      "SourceUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "jss2a98aj",
+      "SourceName": "NotFine",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.2.5"
     },
     {
       "Id": "mod:novacraft",
@@ -935,24 +1040,50 @@
       "SourceTag": "197"
     },
     {
+      "Id": "mod:openblocks",
+      "Name": "OpenBlocks",
       "DestPath": "mods/OpenBlocks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.9.1-GTNH/OpenBlocks-1.9.1-GTNH.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "OpenBlocks",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.9.1-GTNH"
     },
     {
+      "Id": "mod:openmodslib",
+      "Name": "OpenModsLib",
       "DestPath": "mods/OpenModsLibs.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "OpenModsLib",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.10.9"
     },
     {
+      "Id": "mod:opis",
+      "Name": "Opis",
       "DestPath": "mods/Opis.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.2-mapless/Opis-1.4.2-mapless.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Opis",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh|-mapless)\\.jar$",
+      "SourceTag": "1.4.2-mapless"
     },
     {
+      "Id": "mod:optifine",
+      "Name": "OptiFine",
       "DestPath": "mods/OptiFine_1.7.10_HD_U_E7.jar",
       "SourceUrl": "https://optifine.net/downloadx?f=OptiFine_1.7.10_HD_U_E7.jar&x=41a40eb89a62470cfc27504d2d9555e9"
     },
     {
+      "Id": "mod:optimizationsandtweaks",
+      "Name": "Optimizations And Tweaks",
       "DestPath": "mods/optimizationsandtweaks.jar",
-      "SourceUrl": "https://github.com/quentin452/OptimizationsAndTweaks/releases/download/V1.13.9/optimizationsandtweaks-V1.13.9.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "quentin452",
+      "SourceName": "OptimizationsAndTweaks",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "V1.13.9"
     },
     {
       "Id": "mod:oredictconverter",
@@ -979,16 +1110,30 @@
       "SourceTag": "397"
     },
     {
+      "Id": "mod:pilzmcsammelsorium",
+      "Name": "PilzMcSammelsorium",
       "DestPath": "mods/pilzmcsammelsorium.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/PilzMcSammelsorium/releases/download/1.3.3/pilzmcsammelsorium-1.3.3.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "PilzMcSammelsorium",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.3.3"
     },
     {
+      "Id": "mod:plantmegapack",
+      "Name": "PlantMegaPack",
       "DestPath": "mods/plantmegapack.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=plantmegapack.jar"
     },
     {
+      "Id": "mod:plantmegapackfix",
+      "Name": "PlantMegaPackFix",
       "DestPath": "mods/plantmegapackfix.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/plantmegapackfix/releases/download/1.0.0/plantmegapackfix-1.0.0.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "plantmegapackfix",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.0.0"
     },
     {
       "Id": "mod:recurrentcomplex",
