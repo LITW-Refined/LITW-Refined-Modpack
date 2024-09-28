@@ -508,24 +508,54 @@
       "SourceTag": "324"
     },
     {
-      "DestPath": "mods/endercore.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar"
+      "Id": "mod:endercore",
+      "Name": "EnderCore",
+      "DestPath": "mods/EnderCore.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.6/endercore-0.4.6.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "EnderCore",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.4.6"
     },
     {
+      "Id": "mod:enderio",
+      "Name": "Ender IO",
       "DestPath": "mods/EnderIO.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.0/EnderIO-2.8.0.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.8.0/EnderIO-2.8.0.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "EnderIO",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.8.0"
     },
     {
+      "Id": "mod:enderstorage",
+      "Name": "Ender Storage",
       "DestPath": "mods/EnderStorage.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.0/EnderStorage-1.6.0.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "EnderStorage",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.6.0"
     },
     {
+      "Id": "mod:etfuturum",
+      "Name": "Et Futurum Requiem",
       "DestPath": "mods/Et_Futurum_Requiem.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=Et_Futurum_Requiem.jar"
     },
     {
+      "Id": "mod:extrabiomes",
+      "Name": "Extrabimes XL",
       "DestPath": "mods/ExtrabiomesXL.jar",
-      "SourceUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar"
+      "SourceUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "jss2a98aj",
+      "SourceName": "ExtrabiomesXL",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "3.16.8"
     },
     {
       "Id": "mod:extrabuttons",
@@ -552,30 +582,62 @@
       "SourceTag": "249"
     },
     {
+      "Id": "mod:floatingitems",
+      "Name": "Floating Items",
       "DestPath": "mods/floatingitems.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/FloatingItems/releases/download/1.0/floatingitems-1.0.jar"
+      "SourceUrl": "https://github.com/LITW-Refined/FloatingItems/releases/download/1.0/floatingitems-1.0.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "FloatingItems",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.0"
     },
     {
+      "Id": "mod:floodlights",
+      "Name": "Flood Lights",
       "DestPath": "mods/FloodLights.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.3.0/FloodLights-1.3.0.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/FloodLights/releases/download/1.3.0/FloodLights-1.3.0.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "FloodLights",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.3.0"
     },
     {
+      "Id": "mod:forestry",
+      "Name": "Forestry",
       "DestPath": "mods/Forestry.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.9.3/Forestry-4.9.3.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "ForestryMC",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "4.9.3"
     },
     {
+      "Id": "mod:feclient",
+      "Name": "Forge Essentials Client",
       "DestPath": "mods/forgeessentials-client.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-client.jar",
       "Side": "Client"
     },
     {
+      "Id": "mod:feserver",
+      "Name": "Forge Essentials Server",
       "DestPath": "mods/forgeessentials.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-server.jar",
       "Side": "Server"
     },
     {
+      "Id": "mod:forgemultipart",
+      "Name": "Forge Multipart",
       "DestPath": "mods/ForgeMultipart.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "ForgeMultipart",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.4.8"
     },
     {
       "Id": "mod:fullscreenwindowed",
@@ -595,28 +657,59 @@
       "SourceTag": "692"
     },
     {
+      "Id": "mod:grapple",
+      "Name": "Grappling Hook",
       "DestPath": "mods/grapplemod.jar",
       "SourceUrl": "https://github.com/unilock/grapplemod/releases/download/1.7.10-v10%2Bfix36.1/grapplemod-1.7.10-v10+fix36.1.jar"
     },
     {
+      "Id": "mod:gtnhlib",
+      "Name": "GTNHLib",
       "DestPath": "mods/gtnhlib.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.2.11/gtnhlib-0.2.11.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.2.11/gtnhlib-0.2.11.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "GTNHLib",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.2.11"
     },
     {
+      "Id": "mod:guilib",
+      "Name": "GuiLib",
       "DestPath": "mods/GUILib.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/GuiLib/releases/download/1.1/guilib-1.1.jar"
+      "SourceUrl": "https://github.com/LITW-Refined/GuiLib/releases/download/1.1/guilib-1.1.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "LITW-Refined",
+      "SourceName": "GuiLib",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.1"
     },
     {
+      "Id": "mod:pamsharvestcraft",
+      "Name": "Pam's Harvestcraft",
       "DestPath": "mods/harvestcraft.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=harvestcraft.jar"
     },
     {
+      "Id": "mod:hodgepodge",
+      "Name": "Hodgepodge",
       "DestPath": "mods/hodgepodge.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.20/hodgepodge-2.5.20.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.5.20/hodgepodge-2.5.20.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Hodgepodge",
+      "SourceTag": "2.5.20"
     },
     {
+      "Id": "mod:holoinventory",
+      "Name": "HoloInventory",
       "DestPath": "mods/holoinventory.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar"
+      "SourceUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "HoloInventory",
+      "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.4.10-GTNH"
     },
     {
       "Id": "mod:hopperduct",
