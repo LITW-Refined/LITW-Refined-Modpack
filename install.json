@@ -266,7 +266,7 @@
       "DestPath": "mods/Bookshelf.jar",
       "SourceType": "CurseForge",
       "SourceName": "228525",
-      "SourceTag": "2278948"
+      "SourceTag": "2278984"
     },
     {
       "Id": "mod:botania",
@@ -737,7 +737,7 @@
       "DestPath": "mods/ImmersiveEngineering-0.7.7.jar",
       "SourceType": "CurseForge",
       "SourceName": "231951",
-      "SourceTag": "229919"
+      "SourceTag": "2299019"
     },
     {
       "Id": "mod:immersiveintegration",
@@ -925,7 +925,7 @@
       "DestPath": "mods/mystcraft-1.7.10-0.12.3.04.jar",
       "SourceType": "CurseForge",
       "SourceName": "224599",
-      "SourceTag": "241742"
+      "SourceTag": "2417042"
     },
     {
       "Id": "mod:mystcraftextras",
