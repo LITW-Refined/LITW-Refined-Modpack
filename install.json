@@ -444,9 +444,7 @@
       "Id": "mod:decocraft",
       "Name": "Decocraft",
       "DestPath": "mods/Decocraft.jar",
-      "SourceType": "CurseForge",
-      "SourceName": "79616",
-      "SourceTag": "2414535"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2414/535/Decocraft-2.4.2_1.7.10.jar"
     },
     {
       "Id": "mod:defaultserverlist",
