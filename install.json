@@ -834,8 +834,12 @@
       "SourceUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar"
     },
     {
+      "Id": "mod:novacraft",
+      "Name": "NovaCraft",
       "DestPath": "mods/NovaCraft.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/5553/197/NovaCraft%20V1.3.5%20%281.7.10%29.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "5553",
+      "SourceTag": "197"
     },
     {
       "DestPath": "mods/OpenBlocks.jar",
@@ -858,16 +862,28 @@
       "SourceUrl": "https://github.com/quentin452/OptimizationsAndTweaks/releases/download/V1.13.9/optimizationsandtweaks-V1.13.9.jar"
     },
     {
+      "Id": "mod:oredictconverter",
+      "Name": "OreDictionary Converter",
       "DestPath": "mods/OreDictionaryConverter-1.6.1.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2226/312/OreDictionaryConverter-1.6.1.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2226",
+      "SourceTag": "312"
     },
     {
+      "Id": "mod:p455w0rdslib",
+      "Name": "p455w0rdslib",
       "DestPath": "mods/p455w0rdslib.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2359/471/p455w0rdslib-1.7.10-1.0.4.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2359",
+      "SourceTag": "471"
     },
     {
+      "Id": "mod:pamsharvestnether",
+      "Name": "Pam's Harvest the Nether",
       "DestPath": "mods/Pam's Harvest the Nether 1.7.10a.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2241/397/Pam%27s%20Harvest%20the%20Nether%201.7.10a.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2241",
+      "SourceTag": "397"
     },
     {
       "DestPath": "mods/pilzmcsammelsorium.jar",
@@ -882,12 +898,20 @@
       "SourceUrl": "https://github.com/LITW-Refined/plantmegapackfix/releases/download/1.0.0/plantmegapackfix-1.0.0.jar"
     },
     {
+      "Id": "mod:recurrentcomplex",
+      "Name": "Recurrent Complex",
       "DestPath": "mods/RecurrentComplex.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2339/621/RecurrentComplex-0.9.7.1.1.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2339",
+      "SourceTag": "621"
     },
     {
+      "Id": "mod:restonepaste",
+      "Name": "Restone Paste Mod",
       "DestPath": "mods/RedstonePasteMod-1.7.10-1.6.2.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/249/RedstonePasteMod-1.7.10-1.6.2.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2211",
+      "SourceTag": "249"
     },
     {
       "DestPath": "mods/rfwindmill.jar",
@@ -914,8 +938,12 @@
       "SourceUrl": "https://github.com/LITW-Refined/Signpost/releases/download/v1.9.2/signpost-v1.9.2.jar"
     },
     {
+      "Id": "mod:simpleworldtimer",
+      "Name": "SimpleWorldTimer",
       "DestPath": "mods/SimpleWorldTimer.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2859/158/SimpleWorldTimer-1.7.10-1.1.2.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2859",
+      "SourceTag": "158",
       "Side": "Client"
     },
     {
@@ -928,8 +956,12 @@
       "Side": "Client"
     },
     {
+      "Id": "mod:snad",
+      "Name": "Snad",
       "DestPath": "mods/Snad.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2279/363/Snad-1.7.10-1.6.01.31a.jar"
+      "SourceType": "CurseForge",
+      "SourceName": "2279",
+      "SourceTag": "363"
     },
     {
       "DestPath": "mods/solarflux.jar",
