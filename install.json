@@ -528,16 +528,31 @@
       "SourceUrl": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.8/ExtrabiomesXL-3.16.8.jar"
     },
     {
+      "Id": "mod:extrabuttons",
+      "Name": "ExtraButtons",
       "DestPath": "mods/ExtraButtons-1.7.10.1.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2206/926/ExtraButtons-1.7.10.1.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2206/926/ExtraButtons-1.7.10.1.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2206",
+      "SourceTag": "926"
     },
     {
+      "Id": "mod:extrautilities",
+      "Name": "ExtraUtilities",
       "DestPath": "mods/extrautilities.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2264",
+      "SourceTag": "383"
     },
     {
+      "Id": "mod:fastcraft",
+      "Name": "Fastcraft",
       "DestPath": "mods/fastcraft-1.25.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2522/249/fastcraft-1.25.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2522/249/fastcraft-1.25.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2522",
+      "SourceTag": "249"
     },
     {
       "DestPath": "mods/floatingitems.jar",
@@ -566,13 +581,23 @@
       "SourceUrl": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.4.8/ForgeMultipart-1.4.8.jar"
     },
     {
+      "Id": "mod:fullscreenwindowed",
+      "Name": "Fullscreen Windowed",
       "DestPath": "mods/FullscreenWindowed.jar",
       "SourceUrl": "https://mediafilez.forgecdn.net/files/2317/743/FullscreenWindowed-1.7.10-1.3.0b.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2317",
+      "SourceTag": "743",
       "Side": "Client"
     },
     {
+      "Id": "mod:gardenstuff",
+      "Name": "GardenStuff",
       "DestPath": "mods/GardenStuff-1.7.10-1.7.0.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2269/692/GardenStuff-1.7.10-1.7.0.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2269/692/GardenStuff-1.7.10-1.7.0.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2269",
+      "SourceTag": "692"
     },
     {
       "DestPath": "mods/grapplemod.jar",
@@ -599,28 +624,58 @@
       "SourceUrl": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.4.10-GTNH/holoinventory-2.4.10-GTNH.jar"
     },
     {
+      "Id": "mod:hopperduct",
+      "Name": "HopperDuctMod",
       "DestPath": "mods/hopperductmod-1.7.10-1.3.2.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/247/hopperductmod-1.7.10-1.3.2.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2211/247/hopperductmod-1.7.10-1.3.2.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2211",
+      "SourceTag": "247"
     },
     {
+      "Id": "mod:hungeroverhaul",
+      "Name": "HungerOverhaul",
       "DestPath": "mods/HungerOverhaul.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2332/505/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2332/505/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2332",
+      "SourceTag": "505"
     },
     {
+      "Id": "mod:ichunutil",
+      "Name": "iChunUtil",
       "DestPath": "mods/iChunUtil.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2338/148/iChunUtil-4.2.3.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2338/148/iChunUtil-4.2.3.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2338",
+      "SourceTag": "148"
     },
     {
+      "Id": "mod:immersivecavegen",
+      "Name": "Immersive Cavegen",
       "DestPath": "mods/immersivecavegen.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/4723/376/immersivecavegen-1.2g-hotfix5.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/4723/376/immersivecavegen-1.2g-hotfix5.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "4723",
+      "SourceTag": "376"
     },
     {
+      "Id": "mod:immersiveengineering",
+      "Name": "Immersive Engineering",
       "DestPath": "mods/ImmersiveEngineering-0.7.7.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2299/19/ImmersiveEngineering-0.7.7.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2299/19/ImmersiveEngineering-0.7.7.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2299",
+      "SourceTag": "19"
     },
     {
+      "Id": "mod:immersiveintegration",
+      "Name": "Immersive Integration",
       "DestPath": "mods/immersiveintegration.jar",
-      "SourceUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar"
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar",
+      "SourceType": "CurseForge",
+      "SourceName": "2289",
+      "SourceTag": "306"
     },
     {
       "DestPath": "mods/inventorytweaks.jar",
