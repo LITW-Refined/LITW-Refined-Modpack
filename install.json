@@ -114,7 +114,7 @@
       "DestPath": "mods/appliedenergistics2.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
-      "SourceName": "appliedenergistics2",
+      "SourceName": "Applied-Energistics-2-Unofficial",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "rv3-beta-450-GTNH"
     },
