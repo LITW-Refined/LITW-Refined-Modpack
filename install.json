@@ -15,6 +15,14 @@
       "Side": "Client"
     },
     {
+     "IsZip": true,
+     "IsExtra": true,
+     "ZipPath": "customnpcs",
+     "Side": "Client",
+     "DestPath": "customnpcs",
+     "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2F&files=customnpcs"
+    },
+    {
       "IsZip": true,
       "ZipPath": "modpack-files-main/server",
       "DestPath": "",
