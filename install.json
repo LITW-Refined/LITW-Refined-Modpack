@@ -283,8 +283,8 @@
       "Name": "BrandonsCore",
       "DestPath": "mods/BrandonsCore.jar",
       "SourceType": "GitHub",
-      "SourceOwner": "BrandonsCore",
-      "SourceName": "Botania",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "BrandonsCore",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.2.0-GTNH"
     },
