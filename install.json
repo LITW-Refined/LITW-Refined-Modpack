@@ -440,7 +440,11 @@
       "Id": "mod:cnpc+",
       "Name": "CustomNPC+",
       "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
-      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CustomNPC-Plus-nomixin.jar"
+      "SourceType": "GitHub",
+      "SourceOwner": "KAMKEEL",
+      "SourceName": "CustomNPC-Plus",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.9.3"
     },
     {
       "Id": "mod:cnpc+extra",
