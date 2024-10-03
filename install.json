@@ -1034,8 +1034,8 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughItems",
-      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh|\\-universal)\\.jar$",
-      "SourceTag": "2.0.0-GTNH"
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "2.6.40-GTNH"
     },
     {
       "Id": "mod:notfine",
