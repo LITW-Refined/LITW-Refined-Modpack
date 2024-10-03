@@ -1413,39 +1413,6 @@
       "SourceTag": "2.0.2-GTNH"
     },
     {
-      "Id": "mod:storagedrawersbop",
-      "Name": "Storage Drawers BOP",
-      "DestPath": "mods/StorageDrawersBop.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.13.0-GTNH/StorageDrawersBop-1.13.0-GTNH.jar",
-      "SourceType": "GitHub",
-      "SourceOwner": "GTNewHorizons",
-      "SourceName": "StorageDrawers-BiomesOPlenty",
-      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.13.0-GTNH"
-    },
-    {
-      "Id": "mod:storagedrawersforestry",
-      "Name": "Storage Drawers Forestry",
-      "DestPath": "mods/StorageDrawersForestry.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.13.1-GTNH/StorageDrawersForestry-1.13.1-GTNH.jar",
-      "SourceType": "GitHub",
-      "SourceOwner": "GTNewHorizons",
-      "SourceName": "StorageDrawers-Forestry",
-      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.13.1-GTNH"
-    },
-    {
-      "Id": "mod:storagedrawersnatura",
-      "Name": "Storage Drawers Natura",
-      "DestPath": "mods/StorageDrawersNatura.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/StorageDrawers-Natura/releases/download/1.13.0-GTNH/StorageDrawersNatura-1.13.0-GTNH.jar",
-      "SourceType": "GitHub",
-      "SourceOwner": "GTNewHorizons",
-      "SourceName": "StorageDrawers-Natura",
-      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.13.0-GTNH"
-    },
-    {
       "Id": "mod:ticon",
       "Name": "Tinkers Construct",
       "DestPath": "mods/TConstruct.jar",
