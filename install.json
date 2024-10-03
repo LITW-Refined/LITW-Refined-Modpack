@@ -850,6 +850,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "unilock",
       "SourceName": "LegacyFixes",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "1.8.1"
     },
     {
