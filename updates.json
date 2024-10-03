@@ -32,9 +32,6 @@
           "InheritFrom": "mod:chickenchunks"
         },
         {
-          "InheritFrom": "mod:cosmeticarmor"
-        },
-        {
           "InheritFrom": "mod:draconicevolution"
         },
         {
