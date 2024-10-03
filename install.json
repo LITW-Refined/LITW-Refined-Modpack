@@ -701,6 +701,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Hodgepodge",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
       "SourceTag": "2.5.71"
     },
     {
