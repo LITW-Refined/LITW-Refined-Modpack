@@ -454,11 +454,12 @@
       "Id": "mod:cosmeticarmor",
       "Name": "CosmeticArmorReworked",
       "DestPath": "mods/CosmeticArmorReworked.jar",
+      "SourceUrl": "https://github.com/zlainsama/CosmeticArmorReworked/releases/download/1.7.10-v7/CosmeticArmorReworked-1.7.10-v7.jar",
       "SourceType": "GitHub",
       "SourceOwner": "zlainsama",
       "SourceName": "CosmeticArmorReworked",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*\\-v.\\.jar$",
-      "SourceTag": "1.7.10-v6b"
+      "SourceTag": "1.7.10-v7"
     },
     {
       "Id": "mod:crafttweaker",
@@ -535,6 +536,7 @@
       "Id": "mod:draconicevolution",
       "Name": "Draconic Evolution",
       "DestPath": "mods/Draconic-Evolution.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.3.11.GTNH/Draconic-Evolution-1.3.11.GTNH.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Draconic-Evolution",
