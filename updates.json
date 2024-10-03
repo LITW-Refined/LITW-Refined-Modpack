@@ -113,15 +113,6 @@
           "InheritFrom": "mod:storagedrawers"
         },
         {
-          "InheritFrom": "mod:storagedrawersbop"
-        },
-        {
-          "InheritFrom": "mod:storagedrawersforestry"
-        },
-        {
-          "InheritFrom": "mod:storagedrawersnatura"
-        },
-        {
           "InheritFrom": "mod:ticon"
         },
         {
@@ -216,6 +207,18 @@
         },
         {
           "InheritFrom": "config:server"
+        },
+        {
+          "Type": "Delete",
+          "DestPath": "mods/StorageDrawersBop.jar"
+        },
+        {
+          "Type": "Delete",
+          "DestPath": "mods/StorageDrawersForestry.jar"
+        },
+        {
+          "Type": "Delete",
+          "DestPath": "mods/StorageDrawersNatura.jar"
         }
       ]
     },
