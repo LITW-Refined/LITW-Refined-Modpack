@@ -2,12 +2,14 @@
   "Version": "1.7.0.0",
   "Actions": [
     {
+      "Id": "config:both",
       "IsZip": true,
       "ZipPath": "modpack-files-main/both",
       "DestPath": "",
       "SourceUrl": "https://git.pilzinsel64.de/litw-refined/modpack/-/archive/files/main/modpack-files-main.zip"
     },
     {
+      "Id": "config:client",
       "IsZip": true,
       "ZipPath": "modpack-files-main/client",
       "DestPath": "",
@@ -15,14 +17,16 @@
       "Side": "Client"
     },
     {
-     "IsZip": true,
-     "IsExtra": true,
-     "ZipPath": "customnpcs",
-     "Side": "Client",
-     "DestPath": "customnpcs",
-     "DownloadUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2F&files=customnpcs"
+      "Id": "assets:cnpc+",
+      "IsZip": true,
+      "ZipPath": "customnpcs",
+      "DestPath": "customnpcs",
+      "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2F&files=customnpcs",
+      "Side": "Client",
+      "IsExtra": true
     },
     {
+      "Id": "config:server",
       "IsZip": true,
       "ZipPath": "modpack-files-main/server",
       "DestPath": "",
@@ -47,7 +51,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AdventureBackpack2",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.2.0-GTNH"
+      "SourceTag": "1.2.2-GTNH"
     },
     {
       "Id": "mod:ae2fc",
@@ -57,7 +61,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AE2FluidCraft-Rework",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.35-gtnh"
+      "SourceTag": "1.3.37-gtnh"
     },
     {
       "Id": "mod:ae2stuff",
@@ -67,7 +71,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ae2stuff",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.8.2-GTNH"
+      "SourceTag": "0.8.3-GTNH"
     },
     {
       "Id": "mod:alternativechunkloading",
@@ -104,7 +108,7 @@
       "DestPath": "mods/antiqueatlas-1.7.10-4.4.0.jar",
       "SourceType": "CurseForge",
       "SourceName": "227795",
-      "SourceTag": "2420506"
+      "SourceTag": "2454232"
     },
     {
       "Id": "mod:applecore",
@@ -114,7 +118,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AppleCore",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.8.2-GTNH"
+      "SourceTag": "3.3.2"
     },
     {
       "Id": "mod:ae2",
@@ -124,7 +128,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Applied-Energistics-2-Unofficial",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "rv3-beta-450-GTNH"
+      "SourceTag": "rv3-beta-464-GTNH"
     },
     {
       "Id": "mod:archaicfix",
@@ -172,7 +176,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Backhand",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.5.12"
+      "SourceTag": "1.5.14"
     },
     {
       "Id": "mod:baubles",
@@ -334,7 +338,7 @@
       "SourceOwner": "connor135246",
       "SourceName": "Campfire-Backport",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "v1.11.1"
+      "SourceTag": "v1.11.2"
     },
     {
       "Id": "mod:carpentersblocks",
@@ -370,7 +374,7 @@
       "SourceOwner": "LITW-Refined",
       "SourceName": "ChickenChunks",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.4.23-pre"
+      "SourceTag": "1.3.4.23"
     },
     {
       "Id": "mod:chisel",
@@ -414,7 +418,7 @@
       "SourceOwner": "zlainsama",
       "SourceName": "CosmeticArmorReworked",
       "SourceRegex": "^.*\\-[0-9\\.\\+\\-]*\\-v.\\.jar$",
-      "SourceTag": "1.3.7"
+      "SourceTag": "1.7.10-v6b"
     },
     {
       "Id": "mod:crafttweaker",
@@ -485,7 +489,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Draconic-Evolution",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.9-GTNH"
+      "SourceTag": "1.3.11.GTNH"
     },
     {
       "Id": "mod:mocreatures",
@@ -495,7 +499,7 @@
       "SourceOwner": "quentin452",
       "SourceName": "Mo-Creatures-Continuation",
       "SourceRegex": "^.*\\.v[0-9\\.\\+\\-]*\\.jar$",
-      "SourceTag": "1.3.7"
+      "SourceTag": "6.4.2"
     },
     {
       "Id": "mod:easycrafting",
@@ -531,7 +535,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderIO",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.8.0"
+      "SourceTag": "2.8.18"
     },
     {
       "Id": "mod:enderstorage",
@@ -541,7 +545,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderStorage",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.6.0"
+      "SourceTag": "1.6.2"
     },
     {
       "Id": "mod:etfuturum",
@@ -601,7 +605,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "FloodLights",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.0"
+      "SourceTag": "1.4.1"
     },
     {
       "Id": "mod:forestry",
@@ -611,7 +615,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ForestryMC",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "4.9.3"
+      "SourceTag": "4.9.16"
     },
     {
       "Id": "mod:feclient",
@@ -635,7 +639,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ForgeMultipart",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.4.8"
+      "SourceTag": "1.5.0"
     },
     {
       "Id": "mod:fullscreenwindowed",
@@ -668,7 +672,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "GTNHLib",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.2.11"
+      "SourceTag": "0.5.12"
     },
     {
       "Id": "mod:guilib",
@@ -693,7 +697,7 @@
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Hodgepodge",
-      "SourceTag": "2.5.20"
+      "SourceTag": "2.5.71"
     },
     {
       "Id": "mod:holoinventory",
@@ -703,7 +707,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "HoloInventory",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.4.10-GTNH"
+      "SourceTag": "2.4.12-GTNH"
     },
     {
       "Id": "mod:hopperduct",
@@ -761,7 +765,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "inventory-tweaks",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.6.2"
+      "SourceTag": "1.7.0"
     },
     {
       "Id": "mod:ironchest",
@@ -771,7 +775,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ironchest",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "6.0.85"
+      "SourceTag": "6.0.86"
     },
     {
       "Id": "mod:ivtoolkit",
@@ -789,7 +793,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Jabba",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.5"
+      "SourceTag": "1.4.6"
     },
     {
       "Id": "mod:journeymap",
@@ -797,7 +801,7 @@
       "DestPath": "mods/journeymap.jar",
       "SourceType": "CurseForge",
       "SourceName": "32274",
-      "SourceTag": "4500658"
+      "SourceTag": "5769353"
     },
     {
       "Id": "mod:justenoughcalculation",
@@ -807,7 +811,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "JustEnoughCalculation",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.7.10-4.0"
+      "SourceTag": "1.7.10-4.2"
     },
     {
       "Id": "mod:keyboardwizard",
@@ -957,7 +961,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Natura",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.6.4"
+      "SourceTag": "2.7.3"
     },
     {
       "Id": "mod:naturescompass",
@@ -967,7 +971,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NaturesCompass",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.4.0-GTNH"
+      "SourceTag": "1.4.4-GTNH"
     },
     {
       "Id": "mod:neiaddons",
@@ -977,7 +981,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "neiaddons",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.15.0"
+      "SourceTag": "1.16.0"
     },
     {
       "Id": "mod:netherportalfix",
@@ -987,7 +991,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NetherPortalFix",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.2.0"
+      "SourceTag": "1.3.0"
     },
     {
       "Id": "mod:nomorerecipeconflict",
@@ -1005,7 +1009,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughEnergistics",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.6.0"
+      "SourceTag": "1.6.4"
     },
     {
       "Id": "mod:notenoughids",
@@ -1015,7 +1019,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughIds",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.0.3"
+      "SourceTag": "2.1.6"
     },
     {
       "Id": "mod:notenoughitems",
@@ -1025,7 +1029,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughItems",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.6.0-GTNH"
+      "SourceTag": "v2.0.6"
     },
     {
       "Id": "mod:notfine",
@@ -1053,7 +1057,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "OpenBlocks",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.9.1-GTNH"
+      "SourceTag": "1.10.2-GTNH"
     },
     {
       "Id": "mod:openmodslib",
@@ -1073,7 +1077,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Opis",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh|-mapless)\\.jar$",
-      "SourceTag": "1.4.2-mapless"
+      "SourceTag": "1.4.4-mapless"
     },
     {
       "Id": "mod:optifine",
@@ -1195,7 +1199,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Schematica",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.11.1-GTNH"
+      "SourceTag": "1.11.2-GTNH"
     },
     {
       "Id": "mod:serializationisbad",
@@ -1205,7 +1209,7 @@
       "SourceOwner": "dogboy21",
       "SourceName": "serializationisbad",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.5"
+      "SourceTag": "1.5.2"
     },
     {
       "Id": "mod:singpost",
@@ -1273,7 +1277,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "StorageDrawers",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.13.5-GTNH"
+      "SourceTag": "2.0.2-GTNH"
     },
     {
       "Id": "mod:storagedrawersbop",
@@ -1283,7 +1287,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "StorageDrawers-BiomesOPlenty",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.12.0-GTNH"
+      "SourceTag": "1.13.0-GTNH"
     },
     {
       "Id": "mod:storagedrawersforestry",
@@ -1293,7 +1297,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "StorageDrawers-Forestry",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.12.0-GTNH"
+      "SourceTag": "1.13.1-GTNH"
     },
     {
       "Id": "mod:storagedrawersnatura",
@@ -1303,7 +1307,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "StorageDrawers-Natura",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.12.0-GTNH"
+      "SourceTag": "1.13.0-GTNH"
     },
     {
       "Id": "mod:ticon",
@@ -1313,7 +1317,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "TinkersConstruct",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.12.1-GTNH"
+      "SourceTag": "1.12.10-GTNH"
     },
     {
       "Id": "mod:thaumcraft",
@@ -1339,7 +1343,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "thaumcraft-research-tweaks",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.1.0"
+      "SourceTag": "1.2.0"
     },
     {
       "Id": "mod:thaumicenergistics",
@@ -1349,7 +1353,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ThaumicEnergistics",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.6.10-GTNH"
+      "SourceTag": "1.6.25-GTNH"
     },
     {
       "Id": "mod:thaumictinker",
@@ -1359,7 +1363,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ThaumicTinkerer",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.9.4"
+      "SourceTag": "2.10.1"
     },
     {
       "Id": "mod:thermalexpansion",
@@ -1405,7 +1409,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "TX-Loader",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.7.0",
+      "SourceTag": "1.7.2",
       "Side": "Client"
     },
     {
@@ -1430,7 +1434,7 @@
       "DestPath": "mods/VillageNames.jar",
       "SourceType": "CurseForge",
       "SourceName": "259230",
-      "SourceTag": "5299898"
+      "SourceTag": "5690707"
     },
     {
       "Id": "mod:waila",
@@ -1440,7 +1444,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "waila",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.8.0"
+      "SourceTag": "1.8.1"
     },
     {
       "Id": "mod:wailaharvestability",
@@ -1460,7 +1464,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "WAILAPlugins",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.4.0"
+      "SourceTag": "0.5.1"
     },
     {
       "Id": "mod:wildmobs",
@@ -1470,7 +1474,7 @@
       "SourceOwner": "quentin452",
       "SourceName": "wildmobs",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.5.4"
+      "SourceTag": "1.5.6.7"
     },
     {
       "Id": "mod:ae2wcf",
@@ -1480,7 +1484,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "WirelessCraftingTerminal",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.11.6"
+      "SourceTag": "1.11.7"
     },
     {
       "Id": "mod:witchery",
