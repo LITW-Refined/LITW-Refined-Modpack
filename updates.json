@@ -4,108 +4,220 @@
       "Version": "1.7.0.0",
       "Actions": [
         {
-          "Type": "Delete",
-          "DestPath": "mods/cfm-3.4.8-mc1.7.10.jar"
+          "InheritFrom": "mod:adventurebackpack"
         },
         {
-          "DestPath": "mods/MrCrayfishFurnitureMod.jar",
-          "SourceUrl": "https://mediafilez.forgecdn.net/files/2221/679/MrCrayfishFurnitureModv3.4.7%281.7.10%29.jar"
+          "InheritFrom": "mod:ae2fc"
         },
         {
-          "DestPath": "mods/archaicfix.jar",
-          "SourceUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.4/archaicfix-0.7.4.jar"
+          "InheritFrom": "mod:ae2stuff"
         },
         {
-          "DestPath": "mods/campfirebackport.jar",
-          "SourceUrl": "https://github.com/connor135246/Campfire-Backport/releases/download/v1.11.1/campfirebackport-1.7.10-1.11.1.jar"
+          "InheritFrom": "mod:antiquieatlas"
         },
         {
-          "DestPath": "mods/Et_Futurum_Requiem.jar",
-          "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=Et_Futurum_Requiem.jar"
+          "InheritFrom": "mod:applecore"
         },
         {
-          "DestPath": "mods/CraftArcanum.jar",
-          "SourceUrl": "https://mediafilez.forgecdn.net/files/2323/225/CraftArcanum-1.1.1.jar"
+          "InheritFrom": "mod:ae2"
         },
         {
-          "DestPath": "mods/legacyfixes.jar",
-          "SourceUrl": "https://github.com/unilock/LegacyFixes/releases/download/1.8.1/legacyfixes-1.8.1.jar"
+          "InheritFrom": "mod:backhand"
         },
         {
-          "DestPath": "mods/immersiveintegration.jar",
-          "SourceUrl": "https://mediafilez.forgecdn.net/files/2289/306/immersiveintegration-0.6.8.jar"
+          "InheritFrom": "mod:campfire"
         },
         {
-          "DestPath": "mods/notfine.jar",
-          "SourceUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar"
+          "InheritFrom": "mod:chickenchunks"
         },
         {
-          "DestPath": "mods/backhand.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/Backhand/releases/download/1.5.12/backhand-1.5.12.jar"
+          "InheritFrom": "mod:cosmeticarmor"
         },
         {
-          "DestPath": "mods/ae2fc.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.35-gtnh/ae2fc-1.3.35-gtnh.jar"
+          "InheritFrom": "mod:draconicevolution"
         },
         {
-          "DestPath": "mods/ae2stuff.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.2-GTNH/ae2stuff-0.8.2-GTNH.jar"
+          "InheritFrom": "mod:mocreatures"
         },
         {
-          "DestPath": "mods/WirelessCraftingTerminal.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.6/WirelessCraftingTerminal-1.11.6.jar"
+          "InheritFrom": "mod:enderio"
         },
         {
-          "DestPath": "mods/anotheroregenerator.jar",
-          "SourceUrl": "https://github.com/LITW-Refined/AnotherOreGenerator/releases/download/0.2.1/anotheroregenerator-0.2.1.jar"
+          "InheritFrom": "mod:enderstorage"
         },
         {
-          "DestPath": "mods/appliedenergistics2.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-450-GTNH/appliedenergistics2-rv3-beta-450-GTNH.jar"
+          "InheritFrom": "mod:floodlights"
         },
         {
-          "DestPath": "mods/bugtorch.jar",
-          "SourceUrl": "https://github.com/jss2a98aj/BugTorch/releases/download/1.2.13/bugtorch-1.2.13.jar"
+          "InheritFrom": "mod:forestry"
         },
         {
-          "DestPath": "mods/BrandonsCore.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar"
+          "InheritFrom": "mod:forgemultipart"
         },
         {
-          "DestPath": "mods/Botania.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/Botania/releases/download/1.11.5-GTNH/Botania-1.11.5-GTNH.jar"
+          "InheritFrom": "mod:gtnhlib"
         },
         {
-          "DestPath": "mods/betterp2p.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.0/betterp2p-1.3.0.jar"
+          "InheritFrom": "mod:hodgepodge"
         },
         {
-          "DestPath": "mods/backpack.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.4.3-GTNH/backpack-2.4.3-GTNH.jar"
+          "InheritFrom": "mod:holoinventory"
         },
         {
-          "DestPath": "mods/Draconic-Evolution.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.3.9-GTNH/Draconic-Evolution-1.3.9-GTNH.jar"
+          "InheritFrom": "mod:inventorytweaks"
         },
         {
-          "DestPath": "mods/CodeChickenCore.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.7/CodeChickenCore-1.3.7.jar"
+          "InheritFrom": "mod:ironchest"
         },
         {
-          "DestPath": "mods/chisel.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/Chisel/releases/download/2.15.2-GTNH/chisel-2.15.2-GTNH.jar"
+          "InheritFrom": "mod:jabba"
         },
         {
-          "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
-          "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=CustomNPC-Plus-nomixin.jar"
+          "InheritFrom": "mod:journeymap"
         },
         {
-          "Type": "Delete",
-          "DestPath": "mods/1.7.10/CodeChickenLib-1.2.1.jar"
+          "InheritFrom": "mod:justenoughcalculation"
         },
         {
-          "DestPath": "mods/CarpentersBlocks.jar",
-          "SourceUrl": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.6.2-GTNH/CarpentersBlocks-3.6.2-GTNH.jar"
+          "InheritFrom": "mod:natura"
+        },
+        {
+          "InheritFrom": "mod:naturescompass"
+        },
+        {
+          "InheritFrom": "mod:neiaddons"
+        },
+        {
+          "InheritFrom": "mod:netherportalfix"
+        },
+        {
+          "InheritFrom": "mod:notenoughenergistics"
+        },
+        {
+          "InheritFrom": "mod:notenoughids"
+        },
+        {
+          "InheritFrom": "mod:notenoughitems"
+        },
+        {
+          "InheritFrom": "mod:openblocks"
+        },
+        {
+          "InheritFrom": "mod:opis"
+        },
+        {
+          "InheritFrom": "mod:schemantica"
+        },
+        {
+          "InheritFrom": "mod:serializationisbad"
+        },
+        {
+          "InheritFrom": "mod:storagedrawers"
+        },
+        {
+          "InheritFrom": "mod:storagedrawersbop"
+        },
+        {
+          "InheritFrom": "mod:storagedrawersforestry"
+        },
+        {
+          "InheritFrom": "mod:storagedrawersnatura"
+        },
+        {
+          "InheritFrom": "mod:ticon"
+        },
+        {
+          "InheritFrom": "mod:thaumcraftresearchtweaks"
+        },
+        {
+          "InheritFrom": "mod:thaumicenergistics"
+        },
+        {
+          "InheritFrom": "mod:thaumictinker"
+        },
+        {
+          "InheritFrom": "mod:txloader"
+        },
+        {
+          "InheritFrom": "mod:villagenames"
+        },
+        {
+          "InheritFrom": "mod:waila"
+        },
+        {
+          "InheritFrom": "mod:wailaplugins"
+        },
+        {
+          "InheritFrom": "mod:wildmobs"
+        },
+        {
+          "InheritFrom": "mod:ae2wcf"
+        },
+        {
+          "InheritFrom": "mod:mcf"
+        },
+        {
+          "InheritFrom": "mod:archaicfix"
+        },
+        {
+          "InheritFrom": "mod:campfire"
+        },
+        {
+          "InheritFrom": "mod:etfuturum"
+        },
+        {
+          "InheritFrom": "mod:craftarcanum"
+        },
+        {
+          "InheritFrom": "mod:legacyfixes"
+        },
+        {
+          "InheritFrom": "mod:immersiveintegration"
+        },
+        {
+          "InheritFrom": "mod:notfine"
+        },
+        {
+          "InheritFrom": "mod:backhand"
+        },
+        {
+          "InheritFrom": "mod:anotheroregen"
+        },
+        {
+          "InheritFrom": "mod:bugtorch"
+        },
+        {
+          "InheritFrom": "mod:brandonscore"
+        },
+        {
+          "InheritFrom": "mod:botania"
+        },
+        {
+          "InheritFrom": "mod:betterp2p"
+        },
+        {
+          "InheritFrom": "mod:backpack"
+        },
+        {
+          "InheritFrom": "mod:codechickencore"
+        },
+        {
+          "InheritFrom": "mod:chisel"
+        },
+        {
+          "InheritFrom": "mod:carpentersblocks"
+        },
+        {
+          "InheritFrom": "mod:cnpc+"
+        },
+        {
+          "InheritFrom": "config:both"
+        },
+        {
+          "InheritFrom": "config:client"
+        },
+        {
+          "InheritFrom": "config:server"
         }
       ]
     },
