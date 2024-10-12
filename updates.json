@@ -219,6 +219,12 @@
         {
           "Type": "Delete",
           "DestPath": "mods/StorageDrawersNatura.jar"
+        },
+        {
+          "InheritFrom": "mod:extrautilities"
+        },
+        {
+          "InheritFrom": "mod:bibliowoodseb"
         }
       ]
     },
