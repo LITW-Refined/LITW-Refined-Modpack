@@ -2,7 +2,6 @@
   "Updates": [
     {
       "Version": "1.7.0.0",
-      "IsPublic": false,
       "Actions": [
         {
           "InheritFrom": "mod:adventurebackpack"
