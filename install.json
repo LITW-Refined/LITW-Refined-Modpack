@@ -1148,7 +1148,8 @@
       "SourceOwner": "jss2a98aj",
       "SourceName": "NotFine",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.2.5"
+      "SourceTag": "0.2.5",
+      "Side": "Client"
     },
     {
       "Id": "mod:novacraft",
