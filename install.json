@@ -144,12 +144,12 @@
       "Id": "mod:archaicfix",
       "Name": "ArchaicFix",
       "DestPath": "mods/archaicfix.jar",
-      "SourceUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.2/archaicfix-0.7.2.jar",
+      "SourceUrl": "https://github.com/embeddedt/ArchaicFix/releases/download/0.7.4/archaicfix-0.7.4.jar",
       "SourceType": "GitHub",
       "SourceOwner": "embeddedt",
       "SourceName": "ArchaicFix",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.7.2"
+      "SourceTag": "0.7.4"
     },
     {
       "Id": "mod:architecturecraft",
