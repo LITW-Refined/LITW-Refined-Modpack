@@ -59,12 +59,12 @@
       "Id": "mod:ae2fc",
       "Name": "AE2 Fluid Craft",
       "DestPath": "mods/ae2fc.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.37-gtnh/ae2fc-1.3.37-gtnh.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.3.39-gtnh/ae2fc-1.3.39-gtnh.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "AE2FluidCraft-Rework",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.37-gtnh"
+      "SourceTag": "1.3.39-gtnh"
     },
     {
       "Id": "mod:ae2stuff",
@@ -133,12 +133,12 @@
       "Id": "mod:ae2",
       "Name": "Applied Energistics 2",
       "DestPath": "mods/appliedenergistics2.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-464-GTNH/appliedenergistics2-rv3-beta-464-GTNH.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-468-GTNH/appliedenergistics2-rv3-beta-468-GTNH.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Applied-Energistics-2-Unofficial",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "rv3-beta-464-GTNH"
+      "SourceTag": "rv3-beta-468-GTNH"
     },
     {
       "Id": "mod:archaicfix",
@@ -433,7 +433,7 @@
       "SourceOwner": "GTNewHorizons",
       "SourceName": "CodeChickenCore",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.7"
+      "SourceTag": "1.3.9"
     },
     {
       "Id": "mod:cofhcore",
@@ -483,7 +483,7 @@
       "Id": "mod:cnpc+",
       "Name": "CustomNPC+",
       "DestPath": "mods/CustomNPC-Plus-nomixin.jar",
-      "SourceUrl": "https://github.com/KAMKEEL/CustomNPC-Plus/releases/download/1.9.3/CustomNPC-Plus-1.9.3.jar",
+      "SourceUrl": "https://mediafilez.forgecdn.net/files/5772/24/CustomNPC-Plus-1.9.3.jar",
       "SourceType": "GitHub",
       "SourceOwner": "KAMKEEL",
       "SourceName": "CustomNPC-Plus",
@@ -598,12 +598,12 @@
       "Id": "mod:enderstorage",
       "Name": "Ender Storage",
       "DestPath": "mods/EnderStorage.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.2/EnderStorage-1.6.2.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.6.4/EnderStorage-1.6.4.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "EnderStorage",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.6.2"
+      "SourceTag": "1.6.4"
     },
     {
       "Id": "mod:etfuturum",
@@ -736,12 +736,12 @@
       "Id": "mod:gtnhlib",
       "Name": "GTNHLib",
       "DestPath": "mods/gtnhlib.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.12/gtnhlib-0.5.12.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.5.14/gtnhlib-0.5.14.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "GTNHLib",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "0.5.12"
+      "SourceTag": "0.5.14"
     },
     {
       "Id": "mod:guilib",
@@ -851,12 +851,12 @@
       "Id": "mod:ironchest",
       "Name": "IronChest",
       "DestPath": "mods/IronChest.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.86/IronChest-6.0.86.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.87/IronChest-6.0.87.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "ironchest",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "6.0.86"
+      "SourceTag": "6.0.87"
     },
     {
       "Id": "mod:ivtoolkit",
@@ -1057,12 +1057,12 @@
       "Id": "mod:natura",
       "Name": "Natura",
       "DestPath": "mods/Natura.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Natura/releases/download/2.7.3/Natura-2.7.3.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/Natura/releases/download/2.7.4/Natura-2.7.4.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "Natura",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.7.3"
+      "SourceTag": "2.7.4"
     },
     {
       "Id": "mod:naturescompass",
@@ -1132,12 +1132,12 @@
       "Id": "mod:notenoughitems",
       "Name": "NotEnoughItems",
       "DestPath": "mods/NotEnoughItems.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.40-GTNH/NotEnoughItems-2.6.40-GTNH.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.42-GTNH/NotEnoughItems-2.6.42-GTNH.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "NotEnoughItems",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "2.6.40-GTNH"
+      "SourceTag": "2.6.42-GTNH"
     },
     {
       "Id": "mod:notfine",
@@ -1416,12 +1416,12 @@
       "Id": "mod:ticon",
       "Name": "Tinkers Construct",
       "DestPath": "mods/TConstruct.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.10-GTNH/TConstruct-1.12.10-GTNH.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.12.11-GTNH/TConstruct-1.12.11-GTNH.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "TinkersConstruct",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.12.10-GTNH"
+      "SourceTag": "1.12.11-GTNH"
     },
     {
       "Id": "mod:thaumcraft",
