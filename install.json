@@ -428,7 +428,7 @@
       "Id": "mod:codechickencore",
       "Name": "CodeChickenCore",
       "DestPath": "mods/CodeChickenCore.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.7/CodeChickenCore-1.3.7.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.9/CodeChickenCore-1.3.9.jar",
       "SourceType": "GitHub",
       "SourceOwner": "GTNewHorizons",
       "SourceName": "CodeChickenCore",
