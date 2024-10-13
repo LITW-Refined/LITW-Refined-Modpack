@@ -1,6 +1,37 @@
 {
   "Updates": [
     {
+      "Actions": [
+        {
+          "InheritFrom": "mod:ae2fc"
+        },
+        {
+          "InheritFrom": "mod:ae2"
+        },
+        {
+          "InheritFrom": "mod:codechickencore"
+        },
+        {
+          "InheritFrom": "mod:enderstorage"
+        },
+        {
+          "InheritFrom": "mod:gtnhlib"
+        },
+        {
+          "InheritFrom": "mod:ironchest"
+        },
+        {
+          "InheritFrom": "mod:natura"
+        },
+        {
+          "InheritFrom": "mod:notenoughitems"
+        },
+        {
+          "InheritFrom": "mod:ticon"
+        }
+      ]
+    },
+    {
       "Version": "1.7.0.0",
       "IsPublic": false,
       "Actions": [
