@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.2
+
+- 📑 **Backhand** Change to use extra slot instead of an inventory slot. Can still be used by swapping items via F key.
+
 ## 1.7.1
 
 - ❌ **NotFine** *(compatibility issues with BetterFoliage, interpolated textures will be moved to PilzMcSammelsorium soon)*
