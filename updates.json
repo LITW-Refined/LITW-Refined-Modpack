@@ -1,6 +1,14 @@
 {
   "Updates": [
     {
+      "Version": "1.7.2.0",
+      "Actions": [
+        {
+          "InheritFrom": "config:both"
+        }
+      ]
+    },
+    {
       "Version": "1.7.1.0",
       "Actions": [
         {
