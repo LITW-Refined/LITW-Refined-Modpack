@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.1
+
+- ❌ **NotFine** *(compatibility issues with BetterFoliage, interpolated textures will be moved to PilzMcSammelsoirum soon)*
+
 ## 1.7
 
 - 🆕 **[LegacyFixes](https://github.com/unilock/LegacyFixes)** `1.8.1`
