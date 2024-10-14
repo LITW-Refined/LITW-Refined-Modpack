@@ -172,9 +172,6 @@
           "InheritFrom": "mod:immersiveintegration"
         },
         {
-          "InheritFrom": "mod:notfine"
-        },
-        {
           "InheritFrom": "mod:backhand"
         },
         {
