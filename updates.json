@@ -1,6 +1,15 @@
 {
   "Updates": [
     {
+      "Version": "1.7.1.0",
+      "Actions": [
+        {
+          "Type": "Delete",
+          "DestPath": "mods/notfine.jar"
+        }
+      ]
+    },
+    {
       "Version": "1.7.0.0",
       "Actions": [
         {
