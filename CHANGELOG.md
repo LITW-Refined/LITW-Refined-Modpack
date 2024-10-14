@@ -2,7 +2,7 @@
 
 ## 1.7.1
 
-- ❌ **NotFine** *(compatibility issues with BetterFoliage, interpolated textures will be moved to PilzMcSammelsoirum soon)*
+- ❌ **NotFine** *(compatibility issues with BetterFoliage, interpolated textures will be moved to PilzMcSammelsorium soon)*
 
 ## 1.7
 
