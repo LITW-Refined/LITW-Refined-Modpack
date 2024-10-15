@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.7.3
+
+- 🆕 **[NotFine](https://github.com/jss2a98aj/NotFine)** `0.2.5`
+- 📑 **NotFine** Disable really **everything** not just *everything*
+
 ## 1.7.2
 
 - 📑 **Backhand** Change to use extra slot instead of an inventory slot. Can still be used by swapping items via F key.
