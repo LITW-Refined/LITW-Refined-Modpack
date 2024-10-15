@@ -1,6 +1,17 @@
 {
   "Updates": [
     {
+      "Version": "1.7.3.0",
+      "Actions": [
+        {
+          "InheritFrom": "config:both"
+        },
+        {
+          "InheritFrom": "mod:notfine"
+        }
+      ]
+    },
+    {
       "Version": "1.7.2.0",
       "Actions": [
         {
