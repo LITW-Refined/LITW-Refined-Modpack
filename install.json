@@ -1140,6 +1140,18 @@
       "SourceTag": "2.6.42-GTNH"
     },
     {
+      "Id": "mod:notfine",
+      "Name": "NotFine",
+      "DestPath": "mods/notfine.jar",
+      "SourceUrl": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.5/notfine-0.2.5.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "jss2a98aj",
+      "SourceName": "NotFine",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "0.2.5",
+      "Side": "Client"
+    },
+    {
       "Id": "mod:novacraft",
       "Name": "NovaCraft",
       "DestPath": "mods/NovaCraft.jar",
