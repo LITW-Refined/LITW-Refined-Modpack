@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.6
+
+- ⚒️ **Pilz' Sammelsorium** `1.4`
+
 ## 1.7.5
 
 - ❌ **Thaumcraft Research Tweaks** *(incompatibility with other mods)*
