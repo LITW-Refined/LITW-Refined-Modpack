@@ -1,5 +1,5 @@
 {
-  "Version": "1.7.4.0",
+  "Version": "1.7.5.0",
   "Actions": [
     {
       "Id": "config:both",
@@ -695,6 +695,17 @@
       "DestPath": "mods/forgeessentials.jar",
       "SourceUrl": "https://cloud.pilzinsel64.de/s/48YB75qBsfTqqS3/download?path=%2Fmods&files=forgeessentials-server.jar",
       "Side": "Server"
+    },
+    {
+      "Id": "mod:forgelin",
+      "Name": "Forge Multipart",
+      "DestPath": "mods/forgelin.jar",
+      "SourceUrl": "https://github.com/GTNewHorizons/Forgelin/releases/download/1.10.0-GTNH/forgelin-1.10.0-GTNH.jar",
+      "SourceType": "GitHub",
+      "SourceOwner": "GTNewHorizons",
+      "SourceName": "Forgelin",
+      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
+      "SourceTag": "1.10.0-GTNH"
     },
     {
       "Id": "mod:forgemultipart",
