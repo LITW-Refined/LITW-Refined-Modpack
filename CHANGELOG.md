@@ -2,7 +2,7 @@
 
 ## 1.7.5
 
-- 🆕 **[Forgelin](https://github.com/GTNewHorizons/Forgelin)** `1.10.0-GTNH`
+- ❌ **Thaumcraft Research Tweaks** *(incompatibility with other mods)*
 
 ## 1.7.4
 
