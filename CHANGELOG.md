@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.5
+
+- 🆕 **[Forgelin](https://github.com/GTNewHorizons/Forgelin)** `1.10.0-GTNH`
+
+## 1.7.4
+
+- 📑 **Backhand** Change to use extra slot instead of an inventory slot. Can still be used by swapping items via F key.
+
 ## 1.7.3
 
 - 🆕 **[NotFine](https://github.com/jss2a98aj/NotFine)** `0.2.5`
