@@ -698,7 +698,7 @@
     },
     {
       "Id": "mod:forgelin",
-      "Name": "Forge Multipart",
+      "Name": "Forgelin",
       "DestPath": "mods/forgelin.jar",
       "SourceUrl": "https://github.com/GTNewHorizons/Forgelin/releases/download/1.10.0-GTNH/forgelin-1.10.0-GTNH.jar",
       "SourceType": "GitHub",
