@@ -1,5 +1,5 @@
 {
-  "Version": "1.7.5.0",
+  "Version": "1.7.6.0",
   "Actions": [
     {
       "Id": "config:both",
@@ -1227,14 +1227,14 @@
     },
     {
       "Id": "mod:pilzmcsammelsorium",
-      "Name": "PilzMcSammelsorium",
+      "Name": "Pilz' Sammelsorium",
       "DestPath": "mods/pilzmcsammelsorium.jar",
-      "SourceUrl": "https://github.com/LITW-Refined/PilzMcSammelsorium/releases/download/1.3.3/pilzmcsammelsorium-1.3.3.jar",
+      "SourceUrl": "https://github.com/LITW-Refined/PilzMcSammelsorium/releases/download/1.4/pilzmcsammelsorium-1.4.jar",
       "SourceType": "GitHub",
       "SourceOwner": "LITW-Refined",
       "SourceName": "PilzMcSammelsorium",
       "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.3.3"
+      "SourceTag": "1.4"
     },
     {
       "Id": "mod:plantmegapack",

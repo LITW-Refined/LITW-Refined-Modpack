@@ -1,6 +1,14 @@
 {
   "Updates": [
     {
+      "Version": "1.7.6.0",
+      "Actions": [
+        {
+          "InheritFrom": "mod:pilzmcsammelsorium"
+        }
+      ]
+    },
+    {
       "Version": "1.7.5.0",
       "Actions": [
         {
