@@ -4,7 +4,8 @@
       "Version": "1.7.5.0",
       "Actions": [
         {
-          "InheritFrom": "mod:forgelin"
+          "Type": "Delete",
+          "DestPath": "mods/ThaumcraftResearchTweaks.jar"
         }
       ]
     },

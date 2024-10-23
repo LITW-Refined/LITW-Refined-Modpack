@@ -697,17 +697,6 @@
       "Side": "Server"
     },
     {
-      "Id": "mod:forgelin",
-      "Name": "Forgelin",
-      "DestPath": "mods/forgelin.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/Forgelin/releases/download/1.10.0-GTNH/forgelin-1.10.0-GTNH.jar",
-      "SourceType": "GitHub",
-      "SourceOwner": "GTNewHorizons",
-      "SourceName": "Forgelin",
-      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.10.0-GTNH"
-    },
-    {
       "Id": "mod:forgemultipart",
       "Name": "Forge Multipart",
       "DestPath": "mods/ForgeMultipart.jar",
@@ -1440,17 +1429,6 @@
       "SourceType": "CurseForge",
       "SourceName": "225095",
       "SourceTag": "2241913"
-    },
-    {
-      "Id": "mod:thaumcraftresearchtweaks",
-      "Name": "Thaumcraft Research Tweaks",
-      "DestPath": "mods/ThaumcraftResearchTweaks.jar",
-      "SourceUrl": "https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.2.0/ThaumcraftResearchTweaks-1.2.0.jar",
-      "SourceType": "GitHub",
-      "SourceOwner": "GTNewHorizons",
-      "SourceName": "thaumcraft-research-tweaks",
-      "SourceRegex": "^.*\\-(|v|V)[0-9\\.\\+\\-]*?(|\\-pre|\\-GTNH|\\-gtnh)\\.jar$",
-      "SourceTag": "1.2.0"
     },
     {
       "Id": "mod:thaumicenergistics",
