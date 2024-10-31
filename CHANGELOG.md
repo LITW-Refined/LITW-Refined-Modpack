@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.7.7
+
+- 🆕  **[NotEnoughPets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)** `2.4.0`
+- ⚒️ **UniMixins** `0.1.19`
+- ⚒️ **Adventure Backpack 2** `1.2.3-GTNH`
+- ⚒️ **AE2 Fluid Craft** `1.3.45-gtnh`
+- ⚒️ **AppleCore** `3.3.3`
+- ⚒️ **Applied Energistics 2** `rv3-beta-471-GTNH`
+- ⚒️ **Chisel** `2.15.3-GTNH`
+- ⚒️ **Draconic Evolution** `1.3.13-GTNH`
+- ⚒️ **Ender IO** `2.8.20`
+- ⚒️ **GTNHLib** `0.5.18`
+- ⚒️ **Hodgepodge** `2.5.75`
+- ⚒️ **HoloInventory** `2.4.13-GTNH`
+- ⚒️ **Legacy Fixes** `2.0.0`
+- ⚒️ **NotEnoughItems** `2.6.44-GTNH`
+- ⚒️ **Storage Drawers** `2.0.3-GTNH`
+- ⚒️ **Tinkers Construct** `1.12.12-GTNH`
+- ⚒️ **Thaumic Energistics** `1.6.26-GTNH`
+- ⚒️ **Thaumic Tinker** `2.10.2`
+
 ## 1.7.6
 
 - ⚒️ **Pilz' Sammelsorium** `1.4`
