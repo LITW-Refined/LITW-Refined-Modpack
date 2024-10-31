@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.8
+
+- ⚒️ **Et Futurum Requiem** `2.6.1`
+
 ## 1.7.7
 
 - 🆕  **[NotEnoughPets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)** `2.4.0`
