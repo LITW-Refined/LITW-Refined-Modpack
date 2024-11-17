@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.10
+
+- ⚒️ **Wild Mobs** `1.5.4`
+
+## 1.7.9
+
+- ⚒️ **Flood Lights** `1.4.1-dirty`
+
 ## 1.7.8
 
 - ⚒️ **Et Futurum Requiem** `2.6.1`
