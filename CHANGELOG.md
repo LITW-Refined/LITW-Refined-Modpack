@@ -1,5 +1,37 @@
 # Changelog
 
+## 1.7.11
+
+- ⚒️ **Adventure Backpack 2** `1.2.4-GTNH`
+- ⚒️ **AE2 Fluid Craft** `1.3.50-gtnh`
+- ⚒️ **AE2 Stuff** `0.8.5-GTNH`
+- ⚒️ **Alternative Chunkloading** `1.2.1`
+- ⚒️ **AppleCore** `3.3.4`
+- ⚒️ **Applied Energistics 2** `rv3-beta-478-GTNH`
+- ⚒️ **ArchitectureCraft** `1.10.2`
+- ⚒️ **Campfire Backport** `v1.11.3`
+- ⚒️ **CodeChickenCore** `1.3.10`
+- ⚒️ **Draconic Evolution** `1.3.14-GTNH`
+- ⚒️ **Ender IO** `2.8.22`
+- ⚒️ **Et Futurum Requiem** `2.6.2`
+- ⚒️ **Flood Lights** `1.4.2`
+- ⚒️ **Forestry** `4.9.19`
+- ⚒️ **GTNHLib** `0.5.21`
+- ⚒️ **Hodgepodge** `2.5.82`
+- ⚒️ **Legacy Fixes** `2.1.1`
+- ⚒️ **Lunatrius Core** `1.2.1-GTNH`
+- ⚒️ **Mantle** `0.4.2`
+- ⚒️ **Mouse Tweaks** `2.4.18-GTNH`
+- ⚒️ **Natura** `2.7.5`
+- ⚒️ **NotEnoughItems** `2.6.49-GTNH`
+- ⚒️ **NotEnoughPets** `5881330`
+- ⚒️ **Storage Drawers** `2.0.5-GTNH`
+- ⚒️ **Tinkers Construct** `1.12.16-GTNH`
+- ⚒️ **Thaumic Energistics** `1.6.27-GTNH`
+- ⚒️ **VillageNames** `5886875`
+- ⚒️ **Waila** `1.8.2`
+- ⚒️ **Witchery Extras** `1.2.3`
+
 ## 1.7.10
 
 - ⚒️ **Wild Mobs** `1.5.4`
