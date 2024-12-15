@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.14
+
+- ❌ **Chest transporter** *(duplicated by JABBA)*
+- 📑 **JABBA** Updated recipes for upgrades
+- 📑 **Storage Drawer** Add recipes for two new ugprades
+- 📑 **Storage Drawer** Updated textures for upgrades to match recipes
+- 📑 **Immersive Cavegen** Disable server-only mode
+
 ## 1.7.11
 
 - ⚒️ **Adventure Backpack 2** `1.2.4-GTNH`
