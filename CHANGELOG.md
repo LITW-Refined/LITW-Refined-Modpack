@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.7.15
+
+- ⚒️ **AE2 Fluid Craft** `1.3.52-gtnh`
+- ⚒️ **AE2 Stuff** `0.8.6-GTNH`
+- ⚒️ **Alternative Chunkloading** `1.3`
+- ⚒️ **Applied Energistics 2** `rv3-beta-482-GTNH`
+- ⚒️ **Bontania** `1.11.7-GTNH`
+- ⚒️ **Carpenters Blocks** `3.6.3-GTNH`
+- ⚒️ **Chisel** `2.15.4-GTNH`
+- ⚒️ **CodeChickenCore** `1.4.0`
+- ⚒️ **Ender IO** `2.9.0`
+- ⚒️ **Flood Lights** `1.5.0`
+- ⚒️ **Forestry** `4.9.20`
+- ⚒️ **GTNHLib** `0.5.23`
+- ⚒️ **Hodgepodge** `2.6.6`
+- ⚒️ **JABBA** `1.5.0`
+- ⚒️ **JustEnoughCalculation** `1.7.10-4.3`
+- ⚒️ **Mouse Tweaks** `2.4.20-GTNH`
+- ⚒️ **NotEnoughItems** `2.6.52-GTNH`
+- ⚒️ **Opis** `1.4.5-mapless`
+- ⚒️ **TX Loader** `1.8.0`
+- ⚒️ **Waila Plugins** `0.5.2`
+
 ## 1.7.14
 
 - ❌ **Chest transporter** *(duplicated by JABBA)*
