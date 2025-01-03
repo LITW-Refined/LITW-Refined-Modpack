@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.7.20
+
+- 🆕 **[Rings of distance](https://github.com/LITW-Refined/ringsofdistance)** `.0`
+- ⚒️ **EZStorage** `1.2.1`
+
+## 1.7.19
+
+- 🆕 **[EZStorage](https://github.com/pilzinsel64/EZStorage)** `1.2`
+
+## 1.7.18
+
+- 🆕 **[CraftingTweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)** `1.1.0-GTNH`
+
+## 1.7.17
+
+- ⚒️ **Backpack** `2.4.3`
+
+## 1.7.16
+
+- ⚒️ **Carpenter Blocks** `3.6.2-GTNH`
+
 ## 1.7.15
 
 - ⚒️ **AE2 Fluid Craft** `1.3.52-gtnh`
@@ -77,7 +98,7 @@
 
 ## 1.7.7
 
-- 🆕  **[NotEnoughPets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)** `2.4.0`
+- 🆕 **[NotEnoughPets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)** `2.4.0`
 - ⚒️ **UniMixins** `0.1.19`
 - ⚒️ **Adventure Backpack 2** `1.2.3-GTNH`
 - ⚒️ **AE2 Fluid Craft** `1.3.45-gtnh`
