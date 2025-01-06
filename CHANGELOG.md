@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.7.22
+
+- ⚒️ **Hodgepodge** `2.6.13`
+- ⚒️ **Backhand** `1.5.16`
+- ⚒️ **EZStorage** `1.3.0`
+
+## 1.7.21
+
+- ⚒️ **PlantMegaPackFix** `1.1.1`
+
 ## 1.7.20
 
 - 🆕 **[Rings of distance](https://github.com/LITW-Refined/ringsofdistance)** `.0`
