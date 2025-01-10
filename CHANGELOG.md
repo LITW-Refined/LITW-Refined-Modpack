@@ -1,8 +1,12 @@
 # Changelog
 
+## 1.7.25
+
+- ⚒️ **Easy Storage** `1.4.2`
+
 ## 1.7.24
 
-- ⚒️ **EZStorage** `1.4.0`
+- ⚒️ **Easy Storage** `1.4.0`
 - ⚒️ **ChickenChunks** `1.3.4.24`
 
 ## 1.7.23
@@ -13,7 +17,7 @@
 
 - ⚒️ **Hodgepodge** `2.6.13`
 - ⚒️ **Backhand** `1.5.16`
-- ⚒️ **EZStorage** `1.3.0`
+- ⚒️ **Easy Storage** `1.3.0`
 
 ## 1.7.21
 
@@ -22,11 +26,11 @@
 ## 1.7.20
 
 - 🆕 **[Rings of distance](https://github.com/LITW-Refined/ringsofdistance)** `.0`
-- ⚒️ **EZStorage** `1.2.1`
+- ⚒️ **Easy Storage** `1.2.1`
 
 ## 1.7.19
 
-- 🆕 **[EZStorage](https://github.com/pilzinsel64/EZStorage)** `1.2`
+- 🆕 **[Easy Storage](https://github.com/pilzinsel64/Easy Storage)** `1.2`
 
 ## 1.7.18
 
