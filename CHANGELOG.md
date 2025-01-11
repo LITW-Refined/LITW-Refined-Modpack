@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.27
+
+- ⚒️ **Easy Storage** `1.4.4`
+
 ## 1.7.26
 
 - ⚒️ **Easy Storage** `1.4.3`
