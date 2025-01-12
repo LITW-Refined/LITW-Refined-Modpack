@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.7.28
+## 1.7.29
 
 - ⚒️ **[Random Things](https://lumien.net/rtwiki)** `2.6.0`
 
