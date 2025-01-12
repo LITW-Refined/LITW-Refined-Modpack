@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.28
+
+- ⚒️ **[Random Things](https://lumien.net/rtwiki)** `2.6.0`
+
+## 1.7.28
+
+- ⚒️ **ChickenChunks** `1.3.4.26`
+
 ## 1.7.27
 
 - ⚒️ **Easy Storage** `1.4.4`
