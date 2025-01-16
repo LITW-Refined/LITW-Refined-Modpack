@@ -1,8 +1,48 @@
 # Changelog
 
+## 1.8
+
+- ⚒️ **AE2 Fluid Craft** `1.4.22-gtnh`
+- ⚒️ **Alternative Chunkloading** `1.3.1`
+- ⚒️ **Applied Energistics 2** `rv3-beta-521-GTNH`
+- ⚒️ **Backpack** `2.5.0-GTNH`
+- ⚒️ **Bontania** `1.12.5-GTNH`
+- ⚒️ **BuildCraft** `7.1.42`
+- ⚒️ **Carpenters Blocks** `3.7.0-GTNH`
+- ⚒️ **Chisel** `2.16.2-GTNH`
+- ⚒️ **CodeChickenCore** `1.4.1`
+- ⚒️ **Draconic Evolution** `1.4.2-GTNH`
+- ⚒️ **Ender IO** `2.9.2`
+- ⚒️ **Ender Storage** `1.7.0`
+- ⚒️ **Flood Lights** `1.4.5`
+- ⚒️ **Forestry** `4.10.1`
+- ⚒️ **Forge Multipart** `1.6.2`
+- ⚒️ **GTNHLib** `0.6.2`
+- ⚒️ **Hodgepodge** `2.6.14`
+- ⚒️ **HoloInventory** `2.5.0-GTNH`
+- ⚒️ **IronChest** `6.1.0`
+- ⚒️ **JABBA** `1.5.1`
+- ⚒️ **JustEnoughCalculation** `1.7.10-4.5`
+- ⚒️ **Mantle** `0.5.0`
+- ⚒️ **Natura** `2.8.1`
+- ⚒️ **Natures Compass** `1.5.0-GTNH`
+- ⚒️ **NotEnoughEnergistics** `1.7.0`
+- ⚒️ **NotEnoughItems** `2.7.18-GTNH`
+- ⚒️ **OpenBlocks** `1.11.1-GTNH`
+- ⚒️ **PlantMegaPackFix** `1.2.0`
+- ⚒️ **PlantMegaPack**
+- ⚒️ **Schemantica** `1.12.2-GTNH`
+- ⚒️ **Storage Drawers** `2.1.0-GTNH`
+- ⚒️ **Tinkers Construct** `1.13.4-GTNH`
+- ⚒️ **Thaumic Energistics** `1.7.4-GTNH`
+- ⚒️ **Thaumic Tinker** `2.11.1`
+- ⚒️ **Tinkers Mechworks** `0.4.0`
+- ⚒️ **UniDict** `2329986`
+- ⚒️ **Witchery Extras** `1.3.0`
+
 ## 1.7.29
 
-- ⚒️ **[Random Things](https://lumien.net/rtwiki)** `2.6.0`
+- 🆕 **[Random Things](https://lumien.net/rtwiki)** `2.6.0`
 
 ## 1.7.28
 
