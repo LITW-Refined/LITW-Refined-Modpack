@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.8.2
+
+- ⚒️ **Hodgepodge** `2.6.18`
+- ⚒️ **Rings of distance** `1.0.2`
+
+## 1.8.1
+
+- ⚒️ **Hodgepodge** `2.6.17`
+
 ## 1.8
 
 - ⚒️ **AE2 Fluid Craft** `1.4.22-gtnh`
@@ -81,7 +90,7 @@
 
 ## 1.7.20
 
-- 🆕 **[Rings of distance](https://github.com/LITW-Refined/ringsofdistance)** `.0`
+- 🆕 **[Rings of distance](https://github.com/LITW-Refined/ringsofdistance)** `1.0`
 - ⚒️ **Easy Storage** `1.2.1`
 
 ## 1.7.19
