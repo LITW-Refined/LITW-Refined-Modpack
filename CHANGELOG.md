@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.8.4
+
+- ⚒️ **EZStorage** `1.4.5`
+
+## 1.8.3
+
+- ⚒️ **OpenBlocks** `1.11.3-GTNH`
+- ⚒️ **Alternative Chunkloading** `1.3.2`
+- ⚒️ **Hodgepodge** `2.6.22`
+- ⚒️ **Carpenters Blocks** `3.6.2-GTNH`
+
 ## 1.8.2
 
 - ⚒️ **Hodgepodge** `2.6.18`
