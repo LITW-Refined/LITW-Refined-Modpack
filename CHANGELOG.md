@@ -1,5 +1,52 @@
 # Changelog
 
+## 1.9
+
+- 🆕 **Mobs Info** `0.4.5`
+- ⚒️ **UniMixins** `0.1.20`
+- ⚒️ **Adventure Backpack 2** `1.3.5-GTNH`
+- ⚒️ **AE2 Fluid Craft** `1.4.32-gtnh`
+- ⚒️ **AE2 Stuff** `0.9.4-GTNH`
+- ⚒️ **Applied Energistics 2** `rv3-beta-554-GTNH`
+- ⚒️ **Backhand** `1.6.11`
+- ⚒️ **Bontania** `1.12.6-GTNH`
+- ⚒️ **BugTorch** `1.2.14`
+- ⚒️ **Carpenters Blocks** `3.6.4-GTNH`
+- ⚒️ **Draconic Evolution** `1.4.6-GTNH`
+- ⚒️ **Ender IO** `2.9.4`
+- ⚒️ **Ender Storage** `1.7.2`
+- ⚒️ **EZStorage** `1.5.15`
+- ⚒️ **Flood Lights** `1.4.6`
+- ⚒️ **Forestry** `4.10.5`
+- ⚒️ **lwjgl3ify** `2.1.11`
+- ⚒️ **GTNHLib** `0.6.15`
+- ⚒️ **Hodgepodge** `2.6.30`
+- ⚒️ **HoloInventory** `2.5.1-GTNH`
+- ⚒️ **Inventory Tweaks** `1.7.1`
+- ⚒️ **IronChest** `6.1.2`
+- ⚒️ **JABBA** `1.5.3`
+- ⚒️ **JourneyMap** `6114227`
+- ⚒️ **JustEnoughCalculation** `1.7.10-4.9`
+- ⚒️ **Legacy Fixes** `2.2.5`
+- ⚒️ **Natura** `2.8.2`
+- ⚒️ **NotEnoughItems** `2.7.30-GTNH`
+- ⚒️ **Schemantica** `1.12.4-GTNH`
+- ⚒️ **Tinkers Construct** `1.13.10-GTNH`
+- ⚒️ **Thaumic Energistics** `1.7.6-GTNH`
+- ⚒️ **Thaumic Tinker** `2.11.4`
+- ⚒️ **TX Loader** `1.8.2`
+- ⚒️ **Waila Harvestability** `1.3.2-GTNH`
+- ⚒️ **AE2 Wireless Crafting Terminal** `1.12.0`
+
+## 1.8.6
+
+*⚠️ With this update Java 17+ is now required.*
+
+- 🆕 **lwjgl3ify** `2.1.9`
+- ⚒️ **GTNHLib** `0.6.13`
+- ⚒️ **Hodgepodge** `2.6.29`
+- ❌ **FullscreenWindowed** *(deprecated by lwjgl3ify)*
+
 ## 1.8.4
 
 - ⚒️ **EZStorage** `1.4.5`
