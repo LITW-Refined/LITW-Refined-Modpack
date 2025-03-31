@@ -24,11 +24,9 @@ This is the name of my private modpack. It is based on [After Humans by Gronkh &
 
 ## Compatibility
 
-- This modpack comes with [lwjgl3ify](https://github.com/GTNewHorizons/lwjgl3ify) and **requires Java 12+** by default!
-  - If you want to use Java 8, just remove the file `mods/lwjgl3ify.jar`
-  - For more instructions read the [client installation guide](https://git.pilzinsel64.de/litw-refined/modpack/-/wikis/installation#client)
-- **Only 64-bit** Java installations are supported
-- At least **3 GiB RAM** are requires (5 GiB are recommended)
+This modpack comes with [lwjgl3ify](https://github.com/GTNewHorizons/lwjgl3ify) and **requires Java 12+** by default! If you want to use Java 8, just remove the file `mods/lwjgl3ify.jar`. For more instructions read the [client installation guide](https://git.pilzinsel64.de/litw-refined/modpack/-/wikis/installation#client).
+
+**Only 64-bit** Java JREs/JDKs are supported and at least **3 GiB RAM** are required to run this modpack (while 5 GiB are recommended for best performance).
 
 ## Modpack repository
 
