@@ -4,7 +4,7 @@ LITW Refined is a Minecraft modpack wich based on [After Humans](https://www.tec
 
 ## Content
 
-With over 200 mods, LITW Refined brings a wealth of new content to explore. Discover diverse new biomes, venture into massive cave systems, conquer challenging dungeons, and even travel to entirely new dimensions. Expand your creativity with countless new blocks and items, perfect for crafting breathtaking landscapes and structures. Dive into powerful magic systems, or embrace advanced and profound technology. Additionally, numerous quality-of-life improvements and updated textures ensure a fresh and immersive experience.
+With over 200 mods, LITW Refined brings a wealth of new content to explore. Discover diverse new biomes, venture into massive cave systems, conquer challenging dungeons, and even travel to entirely new dimensions. Expand your creativity with countless new blocks and items, perfect for crafting breathtaking landscapes and structures. Dive into powerful magic systems, or embrace advanced and profound technology. Additionally, numerous quality-of-life improvements, updated and custom textures and well-balanced configurations ensure a fresh and immersive experience.
 
 ## Links
 
