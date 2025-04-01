@@ -1,6 +1,10 @@
 # Life in the Woods Refined
 
-This is the name of my private modpack. It is based on [After Humans by Gronkh & Debitor](https://www.technicpack.net/modpack/minecraft-after-humans.1060474/) wich is based on [Life in the Woods Renaissance](http://lifeinthewoods.ca/downloads.html). The modpack is intended to be more like LITW but with the possibility to use technic as you wish.
+LITW Refined is a Minecraft modpack wich based on [After Humans](https://www.technicpack.net/modpack/minecraft-after-humans.1060474/) originally published by Gronkh & Debitor which is based on Minecraft v1.7.10 and on the [Life in the Woods modpack](http://lifeinthewoods.ca/downloads.html). This modpack keeps the 1.7.10 version up-do-date with dozen of mod and config updates and a bunch of new mods.
+
+## Content
+
+With over 200 mods, LITW Refined brings a wealth of new content to explore. Discover diverse new biomes, venture into massive cave systems, conquer challenging dungeons, and even travel to entirely new dimensions. Expand your creativity with countless new blocks and items, perfect for crafting breathtaking landscapes and structures. Dive into powerful magic systems, or embrace advanced and profound technology. Additionally, numerous quality-of-life improvements and updated textures ensure a fresh and immersive experience.
 
 ## Links
 
